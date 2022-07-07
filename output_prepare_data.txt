@@ -1,0 +1,6249 @@
+unique insance: 6
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 6
+
+range z is smaller than threshold 
+11_points_GTv3_0147_inst_nostuff
+range z is smaller than threshold 
+11_points_GTv3_0189_inst_nostuff
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 2
+
+range z is smaller than threshold 
+12_points_GTv3_02_inst_nostuff
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+range z is smaller than threshold 
+12_points_GTv3_018_inst_nostuff
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+range z is smaller than threshold 
+12_points_GTv3_049_inst_nostuff
+unique insance: 3
+unique semantic: 3
+
+range z is smaller than threshold 
+12_points_GTv3_050_inst_nostuff
+unique insance: 1
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+range z is smaller than threshold 
+12_points_GTv3_068_inst_nostuff
+unique insance: 4
+unique semantic: 5
+
+range z is smaller than threshold 
+12_points_GTv3_069_inst_nostuff
+unique insance: 1
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 1
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+range z is smaller than threshold 
+12_points_GTv3_088_inst_nostuff
+unique insance: 1
+unique semantic: 2
+
+range z is smaller than threshold 
+12_points_GTv3_089_inst_nostuff
+unique insance: 3
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 5
+
+range z is smaller than threshold 
+12_points_GTv3_0107_inst_nostuff
+unique insance: 1
+unique semantic: 2
+
+range z is smaller than threshold 
+12_points_GTv3_0108_inst_nostuff
+unique insance: 2
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 1
+unique semantic: 1
+
+range z is smaller than threshold 
+12_points_GTv3_0141_inst_nostuff
+unique insance: 1
+unique semantic: 1
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+range z is smaller than threshold 
+12_points_GTv3_0209_inst_nostuff
+unique insance: 4
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 11
+unique semantic: 9
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 7
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 0
+unique semantic: 0
+
+unique insance: 6
+unique semantic: 4
+
+range z is smaller than threshold 
+12_points_GTv3_0313_inst_nostuff
+range z is smaller than threshold 
+12_points_GTv3_0314_inst_nostuff
+unique insance: 7
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+range z is smaller than threshold 
+12_points_GTv3_0332_inst_nostuff
+unique insance: 5
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 4
+
+range z is smaller than threshold 
+12_points_GTv3_0351_inst_nostuff
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 4
+
+range z is smaller than threshold 
+13_points_GTv3_011_inst_nostuff
+unique insance: 7
+unique semantic: 5
+
+range z is smaller than threshold 
+13_points_GTv3_012_inst_nostuff
+unique insance: 8
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+range z is smaller than threshold 
+13_points_GTv3_056_inst_nostuff
+unique insance: 5
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 5
+
+range z is smaller than threshold 
+13_points_GTv3_075_inst_nostuff
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 4
+
+range z is smaller than threshold 
+13_points_GTv3_093_inst_nostuff
+range z is smaller than threshold 
+13_points_GTv3_094_inst_nostuff
+unique insance: 7
+unique semantic: 4
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 4
+
+range z is smaller than threshold 
+13_points_GTv3_0112_inst_nostuff
+range z is smaller than threshold 
+13_points_GTv3_0113_inst_nostuff
+unique insance: 7
+unique semantic: 4
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+range z is smaller than threshold 
+13_points_GTv3_0131_inst_nostuff
+range z is smaller than threshold 
+13_points_GTv3_0132_inst_nostuff
+unique insance: 8
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 3
+
+range z is smaller than threshold 
+13_points_GTv3_0151_inst_nostuff
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 1
+
+unique insance: 7
+unique semantic: 1
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 3
+
+range z is smaller than threshold 
+13_points_GTv3_0227_inst_nostuff
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 1
+unique semantic: 1
+
+range z is smaller than threshold 
+13_points_GTv3_0302_inst_nostuff
+range z is smaller than threshold 
+13_points_GTv3_0303_inst_nostuff
+unique insance: 6
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 1
+
+range z is smaller than threshold 
+13_points_GTv3_0342_inst_nostuff
+unique insance: 7
+unique semantic: 4
+
+range z is smaller than threshold 
+13_points_GTv3_0343_inst_nostuff
+range z is smaller than threshold 
+13_points_GTv3_0344_inst_nostuff
+range z is smaller than threshold 
+13_points_GTv3_0348_inst_nostuff
+range z is smaller than threshold 
+13_points_GTv3_0349_inst_nostuff
+range z is smaller than threshold 
+13_points_GTv3_0350_inst_nostuff
+range z is smaller than threshold 
+13_points_GTv3_0353_inst_nostuff
+unique insance: 8
+unique semantic: 3
+
+range z is smaller than threshold 
+13_points_GTv3_0354_inst_nostuff
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 7
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+range z is smaller than threshold 
+17_points_GTv3_0293_inst_nostuff
+unique insance: 9
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 5
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 7
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 2
+
+range z is smaller than threshold 
+1_points_GTv3_014_inst_nostuff
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 6
+
+range z is smaller than threshold 
+1_points_GTv3_033_inst_nostuff
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+range z is smaller than threshold 
+1_points_GTv3_056_inst_nostuff
+unique insance: 4
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+range z is smaller than threshold 
+1_points_GTv3_073_inst_nostuff
+range z is smaller than threshold 
+1_points_GTv3_076_inst_nostuff
+unique insance: 3
+unique semantic: 2
+
+range z is smaller than threshold 
+1_points_GTv3_077_inst_nostuff
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+range z is smaller than threshold 
+1_points_GTv3_095_inst_nostuff
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 1
+
+unique insance: 4
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 7
+
+unique insance: 10
+unique semantic: 9
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 4
+
+range z is smaller than threshold 
+1_points_GTv3_0323_inst_nostuff
+unique insance: 9
+unique semantic: 5
+
+range z is smaller than threshold 
+1_points_GTv3_0342_inst_nostuff
+unique insance: 2
+unique semantic: 2
+
+range z is smaller than threshold 
+1_points_GTv3_0343_inst_nostuff
+unique insance: 9
+unique semantic: 4
+
+range z is smaller than threshold 
+1_points_GTv3_0344_inst_nostuff
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 1
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 7
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 1
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+range z is smaller than threshold 
+23_points_GTv3_0342_inst_nostuff
+unique insance: 3
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 11
+unique semantic: 9
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+range z is smaller than threshold 
+24_points_GTv3_0296_inst_nostuff
+unique insance: 6
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+range z is smaller than threshold 
+3_points_GTv3_00_inst_nostuff
+unique insance: 0
+unique semantic: 1
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 3
+
+range z is smaller than threshold 
+3_points_GTv3_011_inst_nostuff
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+range z is smaller than threshold 
+3_points_GTv3_030_inst_nostuff
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+range z is smaller than threshold 
+3_points_GTv3_055_inst_nostuff
+range z is smaller than threshold 
+3_points_GTv3_056_inst_nostuff
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+range z is smaller than threshold 
+3_points_GTv3_062_inst_nostuff
+unique insance: 4
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+range z is smaller than threshold 
+3_points_GTv3_075_inst_nostuff
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+range z is smaller than threshold 
+3_points_GTv3_081_inst_nostuff
+unique insance: 3
+unique semantic: 3
+
+range z is smaller than threshold 
+3_points_GTv3_082_inst_nostuff
+unique insance: 8
+unique semantic: 4
+
+range z is smaller than threshold 
+3_points_GTv3_083_inst_nostuff
+unique insance: 2
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 3
+
+range z is smaller than threshold 
+3_points_GTv3_0100_inst_nostuff
+unique insance: 5
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+range z is smaller than threshold 
+3_points_GTv3_0147_inst_nostuff
+unique insance: 3
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 7
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 6
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 5
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 10
+unique semantic: 8
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 7
+
+range z is smaller than threshold 
+4_points_GTv3_0227_inst_nostuff
+unique insance: 6
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 6
+
+range z is smaller than threshold 
+4_points_GTv3_0246_inst_nostuff
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+range z is smaller than threshold 
+4_points_GTv3_0265_inst_nostuff
+unique insance: 6
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 5
+
+range z is smaller than threshold 
+4_points_GTv3_0284_inst_nostuff
+unique insance: 0
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+range z is smaller than threshold 
+6_points_GTv3_056_inst_nostuff
+unique insance: 2
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+range z is smaller than threshold 
+6_points_GTv3_075_inst_nostuff
+unique insance: 5
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 1
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 1
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+range z is smaller than threshold 
+6_points_GTv3_0318_inst_nostuff
+unique insance: 7
+unique semantic: 3
+
+range z is smaller than threshold 
+6_points_GTv3_0319_inst_nostuff
+range z is smaller than threshold 
+6_points_GTv3_0320_inst_nostuff
+unique insance: 6
+unique semantic: 3
+
+range z is smaller than threshold 
+6_points_GTv3_0337_inst_nostuff
+range z is smaller than threshold 
+6_points_GTv3_0338_inst_nostuff
+range z is smaller than threshold 
+6_points_GTv3_0341_inst_nostuff
+unique insance: 8
+unique semantic: 3
+
+range z is smaller than threshold 
+6_points_GTv3_0352_inst_nostuff
+unique insance: 9
+unique semantic: 3
+
+range z is smaller than threshold 
+6_points_GTv3_0356_inst_nostuff
+range z is smaller than threshold 
+6_points_GTv3_0357_inst_nostuff
+range z is smaller than threshold 
+6_points_GTv3_0360_inst_nostuff
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 6
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 4
+unique semantic: 1
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+range z is smaller than threshold 
+7_points_GTv3_0208_inst_nostuff
+unique insance: 6
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 1
+
+unique insance: 3
+unique semantic: 1
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 4
+unique semantic: 1
+
+unique insance: 2
+unique semantic: 1
+
+unique insance: 1
+unique semantic: 1
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 1
+
+unique insance: 2
+unique semantic: 1
+
+range z is smaller than threshold 
+7_points_GTv3_0303_inst_nostuff
+unique insance: 0
+unique semantic: 1
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 1
+unique semantic: 1
+
+range z is smaller than threshold 
+7_points_GTv3_0355_inst_nostuff
+unique insance: 0
+unique semantic: 1
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 2
+
+unique insance: 8
+unique semantic: 1
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 5
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 6
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+range z is smaller than threshold 
+8_points_GTv3_0113_inst_nostuff
+unique insance: 9
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 6
+
+range z is smaller than threshold 
+8_points_GTv3_0246_inst_nostuff
+unique insance: 9
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 5
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 4
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+range z is smaller than threshold 
+8_points_GTv3_0351_inst_nostuff
+range z is smaller than threshold 
+8_points_GTv3_0360_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_013_inst_nostuff
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 3
+
+range z is smaller than threshold 
+9_points_GTv3_0113_inst_nostuff
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+range z is smaller than threshold 
+9_points_GTv3_0147_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0148_inst_nostuff
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 5
+
+range z is smaller than threshold 
+9_points_GTv3_0166_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0167_inst_nostuff
+unique insance: 6
+unique semantic: 5
+
+unique insance: 5
+unique semantic: 2
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 4
+
+range z is smaller than threshold 
+9_points_GTv3_0185_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0186_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0187_inst_nostuff
+unique insance: 8
+unique semantic: 5
+
+unique insance: 7
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 5
+
+unique insance: 6
+unique semantic: 5
+
+range z is smaller than threshold 
+9_points_GTv3_0204_inst_nostuff
+unique insance: 7
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 4
+unique semantic: 4
+
+unique insance: 6
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 4
+
+unique insance: 7
+unique semantic: 4
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 3
+unique semantic: 2
+
+unique insance: 7
+unique semantic: 5
+
+unique insance: 8
+unique semantic: 4
+
+unique insance: 9
+unique semantic: 3
+
+unique insance: 9
+unique semantic: 6
+
+unique insance: 8
+unique semantic: 3
+
+unique insance: 2
+unique semantic: 2
+
+unique insance: 5
+unique semantic: 4
+
+range z is smaller than threshold 
+9_points_GTv3_0270_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0289_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0290_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0307_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0308_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0309_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0326_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0342_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0343_inst_nostuff
+range z is smaller than threshold 
+9_points_GTv3_0344_inst_nostuff
+unique insance: 9
+unique semantic: 7
+
+Total skipped file :1406
+range z is smaller than threshold 
+10_points_GTv3_018_inst_nostuff
+range z is smaller than threshold 
+10_points_GTv3_0346_inst_nostuff
+range z is smaller than threshold 
+5_points_GTv3_0342_inst_nostuff
+Total skipped file :0
+1/1805 10_points_GTv3_00_inst_nostuff
+2/1805 10_points_GTv3_0100_inst_nostuff
+3/1805 10_points_GTv3_0101_inst_nostuff
+4/1805 10_points_GTv3_0102_inst_nostuff
+5/1805 10_points_GTv3_0103_inst_nostuff
+6/1805 10_points_GTv3_0104_inst_nostuff
+7/1805 10_points_GTv3_0105_inst_nostuff
+8/1805 10_points_GTv3_0106_inst_nostuff
+9/1805 10_points_GTv3_0107_inst_nostuff
+10/1805 10_points_GTv3_0108_inst_nostuff
+11/1805 10_points_GTv3_0109_inst_nostuff
+12/1805 10_points_GTv3_010_inst_nostuff
+13/1805 10_points_GTv3_0110_inst_nostuff
+14/1805 10_points_GTv3_0111_inst_nostuff
+15/1805 10_points_GTv3_0112_inst_nostuff
+16/1805 10_points_GTv3_0113_inst_nostuff
+17/1805 10_points_GTv3_0114_inst_nostuff
+18/1805 10_points_GTv3_0115_inst_nostuff
+19/1805 10_points_GTv3_0116_inst_nostuff
+20/1805 10_points_GTv3_0117_inst_nostuff
+21/1805 10_points_GTv3_0118_inst_nostuff
+22/1805 10_points_GTv3_0119_inst_nostuff
+23/1805 10_points_GTv3_011_inst_nostuff
+24/1805 10_points_GTv3_0120_inst_nostuff
+25/1805 10_points_GTv3_0121_inst_nostuff
+26/1805 10_points_GTv3_0122_inst_nostuff
+27/1805 10_points_GTv3_0123_inst_nostuff
+28/1805 10_points_GTv3_0124_inst_nostuff
+29/1805 10_points_GTv3_0125_inst_nostuff
+30/1805 10_points_GTv3_0126_inst_nostuff
+31/1805 10_points_GTv3_0127_inst_nostuff
+32/1805 10_points_GTv3_0128_inst_nostuff
+33/1805 10_points_GTv3_0129_inst_nostuff
+34/1805 10_points_GTv3_012_inst_nostuff
+35/1805 10_points_GTv3_0130_inst_nostuff
+36/1805 10_points_GTv3_0131_inst_nostuff
+37/1805 10_points_GTv3_0132_inst_nostuff
+38/1805 10_points_GTv3_0133_inst_nostuff
+39/1805 10_points_GTv3_0134_inst_nostuff
+40/1805 10_points_GTv3_0135_inst_nostuff
+41/1805 10_points_GTv3_0136_inst_nostuff
+42/1805 10_points_GTv3_0137_inst_nostuff
+43/1805 10_points_GTv3_0138_inst_nostuff
+44/1805 10_points_GTv3_0139_inst_nostuff
+45/1805 10_points_GTv3_013_inst_nostuff
+46/1805 10_points_GTv3_0140_inst_nostuff
+47/1805 10_points_GTv3_0141_inst_nostuff
+48/1805 10_points_GTv3_0142_inst_nostuff
+49/1805 10_points_GTv3_0143_inst_nostuff
+50/1805 10_points_GTv3_0144_inst_nostuff
+51/1805 10_points_GTv3_0145_inst_nostuff
+52/1805 10_points_GTv3_0146_inst_nostuff
+53/1805 10_points_GTv3_0147_inst_nostuff
+54/1805 10_points_GTv3_0148_inst_nostuff
+55/1805 10_points_GTv3_0149_inst_nostuff
+56/1805 10_points_GTv3_014_inst_nostuff
+57/1805 10_points_GTv3_0150_inst_nostuff
+58/1805 10_points_GTv3_0151_inst_nostuff
+59/1805 10_points_GTv3_0152_inst_nostuff
+60/1805 10_points_GTv3_0153_inst_nostuff
+61/1805 10_points_GTv3_0154_inst_nostuff
+62/1805 10_points_GTv3_0155_inst_nostuff
+63/1805 10_points_GTv3_0156_inst_nostuff
+64/1805 10_points_GTv3_0157_inst_nostuff
+65/1805 10_points_GTv3_0158_inst_nostuff
+66/1805 10_points_GTv3_0159_inst_nostuff
+67/1805 10_points_GTv3_015_inst_nostuff
+68/1805 10_points_GTv3_0160_inst_nostuff
+69/1805 10_points_GTv3_0161_inst_nostuff
+70/1805 10_points_GTv3_0162_inst_nostuff
+71/1805 10_points_GTv3_0163_inst_nostuff
+72/1805 10_points_GTv3_0164_inst_nostuff
+73/1805 10_points_GTv3_0165_inst_nostuff
+74/1805 10_points_GTv3_0166_inst_nostuff
+75/1805 10_points_GTv3_0167_inst_nostuff
+76/1805 10_points_GTv3_0168_inst_nostuff
+77/1805 10_points_GTv3_0169_inst_nostuff
+78/1805 10_points_GTv3_016_inst_nostuff
+79/1805 10_points_GTv3_0170_inst_nostuff
+80/1805 10_points_GTv3_0171_inst_nostuff
+81/1805 10_points_GTv3_0172_inst_nostuff
+82/1805 10_points_GTv3_0173_inst_nostuff
+83/1805 10_points_GTv3_0174_inst_nostuff
+84/1805 10_points_GTv3_0175_inst_nostuff
+85/1805 10_points_GTv3_0176_inst_nostuff
+86/1805 10_points_GTv3_0177_inst_nostuff
+87/1805 10_points_GTv3_0178_inst_nostuff
+88/1805 10_points_GTv3_0179_inst_nostuff
+89/1805 10_points_GTv3_017_inst_nostuff
+90/1805 10_points_GTv3_0180_inst_nostuff
+91/1805 10_points_GTv3_0181_inst_nostuff
+92/1805 10_points_GTv3_0182_inst_nostuff
+93/1805 10_points_GTv3_0183_inst_nostuff
+94/1805 10_points_GTv3_0184_inst_nostuff
+95/1805 10_points_GTv3_0185_inst_nostuff
+96/1805 10_points_GTv3_0186_inst_nostuff
+97/1805 10_points_GTv3_0187_inst_nostuff
+98/1805 10_points_GTv3_0188_inst_nostuff
+99/1805 10_points_GTv3_0189_inst_nostuff
+100/1805 10_points_GTv3_018_inst_nostuff
+101/1805 10_points_GTv3_0190_inst_nostuff
+102/1805 10_points_GTv3_0191_inst_nostuff
+103/1805 10_points_GTv3_0192_inst_nostuff
+104/1805 10_points_GTv3_0193_inst_nostuff
+105/1805 10_points_GTv3_0194_inst_nostuff
+106/1805 10_points_GTv3_0195_inst_nostuff
+107/1805 10_points_GTv3_0196_inst_nostuff
+108/1805 10_points_GTv3_0197_inst_nostuff
+109/1805 10_points_GTv3_0198_inst_nostuff
+110/1805 10_points_GTv3_0199_inst_nostuff
+111/1805 10_points_GTv3_019_inst_nostuff
+112/1805 10_points_GTv3_01_inst_nostuff
+113/1805 10_points_GTv3_0200_inst_nostuff
+114/1805 10_points_GTv3_0201_inst_nostuff
+115/1805 10_points_GTv3_0202_inst_nostuff
+116/1805 10_points_GTv3_0203_inst_nostuff
+117/1805 10_points_GTv3_0204_inst_nostuff
+118/1805 10_points_GTv3_0205_inst_nostuff
+119/1805 10_points_GTv3_0206_inst_nostuff
+120/1805 10_points_GTv3_0207_inst_nostuff
+121/1805 10_points_GTv3_0208_inst_nostuff
+122/1805 10_points_GTv3_0209_inst_nostuff
+123/1805 10_points_GTv3_020_inst_nostuff
+124/1805 10_points_GTv3_0210_inst_nostuff
+125/1805 10_points_GTv3_0211_inst_nostuff
+126/1805 10_points_GTv3_0212_inst_nostuff
+127/1805 10_points_GTv3_0213_inst_nostuff
+128/1805 10_points_GTv3_0214_inst_nostuff
+129/1805 10_points_GTv3_0215_inst_nostuff
+130/1805 10_points_GTv3_0216_inst_nostuff
+131/1805 10_points_GTv3_0217_inst_nostuff
+132/1805 10_points_GTv3_0218_inst_nostuff
+133/1805 10_points_GTv3_0219_inst_nostuff
+134/1805 10_points_GTv3_021_inst_nostuff
+135/1805 10_points_GTv3_0220_inst_nostuff
+136/1805 10_points_GTv3_0221_inst_nostuff
+137/1805 10_points_GTv3_0222_inst_nostuff
+138/1805 10_points_GTv3_0223_inst_nostuff
+139/1805 10_points_GTv3_0224_inst_nostuff
+140/1805 10_points_GTv3_0225_inst_nostuff
+141/1805 10_points_GTv3_0226_inst_nostuff
+142/1805 10_points_GTv3_0227_inst_nostuff
+143/1805 10_points_GTv3_0228_inst_nostuff
+144/1805 10_points_GTv3_0229_inst_nostuff
+145/1805 10_points_GTv3_022_inst_nostuff
+146/1805 10_points_GTv3_0230_inst_nostuff
+147/1805 10_points_GTv3_0231_inst_nostuff
+148/1805 10_points_GTv3_0232_inst_nostuff
+149/1805 10_points_GTv3_0233_inst_nostuff
+150/1805 10_points_GTv3_0234_inst_nostuff
+151/1805 10_points_GTv3_0235_inst_nostuff
+152/1805 10_points_GTv3_0236_inst_nostuff
+153/1805 10_points_GTv3_0237_inst_nostuff
+154/1805 10_points_GTv3_0238_inst_nostuff
+155/1805 10_points_GTv3_0239_inst_nostuff
+156/1805 10_points_GTv3_023_inst_nostuff
+157/1805 10_points_GTv3_0240_inst_nostuff
+158/1805 10_points_GTv3_0241_inst_nostuff
+159/1805 10_points_GTv3_0242_inst_nostuff
+160/1805 10_points_GTv3_0243_inst_nostuff
+161/1805 10_points_GTv3_0244_inst_nostuff
+162/1805 10_points_GTv3_0245_inst_nostuff
+163/1805 10_points_GTv3_0246_inst_nostuff
+164/1805 10_points_GTv3_0247_inst_nostuff
+165/1805 10_points_GTv3_0248_inst_nostuff
+166/1805 10_points_GTv3_0249_inst_nostuff
+167/1805 10_points_GTv3_024_inst_nostuff
+168/1805 10_points_GTv3_0250_inst_nostuff
+169/1805 10_points_GTv3_0251_inst_nostuff
+170/1805 10_points_GTv3_0252_inst_nostuff
+171/1805 10_points_GTv3_0253_inst_nostuff
+172/1805 10_points_GTv3_0254_inst_nostuff
+173/1805 10_points_GTv3_0255_inst_nostuff
+174/1805 10_points_GTv3_0256_inst_nostuff
+175/1805 10_points_GTv3_0257_inst_nostuff
+176/1805 10_points_GTv3_0258_inst_nostuff
+177/1805 10_points_GTv3_0259_inst_nostuff
+178/1805 10_points_GTv3_025_inst_nostuff
+179/1805 10_points_GTv3_0260_inst_nostuff
+180/1805 10_points_GTv3_0261_inst_nostuff
+181/1805 10_points_GTv3_0262_inst_nostuff
+182/1805 10_points_GTv3_0263_inst_nostuff
+183/1805 10_points_GTv3_0264_inst_nostuff
+184/1805 10_points_GTv3_0265_inst_nostuff
+185/1805 10_points_GTv3_0266_inst_nostuff
+186/1805 10_points_GTv3_0267_inst_nostuff
+187/1805 10_points_GTv3_0268_inst_nostuff
+188/1805 10_points_GTv3_0269_inst_nostuff
+189/1805 10_points_GTv3_026_inst_nostuff
+190/1805 10_points_GTv3_0270_inst_nostuff
+191/1805 10_points_GTv3_0271_inst_nostuff
+192/1805 10_points_GTv3_0272_inst_nostuff
+193/1805 10_points_GTv3_0273_inst_nostuff
+194/1805 10_points_GTv3_0274_inst_nostuff
+195/1805 10_points_GTv3_0275_inst_nostuff
+196/1805 10_points_GTv3_0276_inst_nostuff
+197/1805 10_points_GTv3_0277_inst_nostuff
+198/1805 10_points_GTv3_0278_inst_nostuff
+199/1805 10_points_GTv3_0279_inst_nostuff
+200/1805 10_points_GTv3_027_inst_nostuff
+201/1805 10_points_GTv3_0280_inst_nostuff
+202/1805 10_points_GTv3_0281_inst_nostuff
+203/1805 10_points_GTv3_0282_inst_nostuff
+204/1805 10_points_GTv3_0283_inst_nostuff
+205/1805 10_points_GTv3_0284_inst_nostuff
+206/1805 10_points_GTv3_0285_inst_nostuff
+207/1805 10_points_GTv3_0286_inst_nostuff
+208/1805 10_points_GTv3_0287_inst_nostuff
+209/1805 10_points_GTv3_0288_inst_nostuff
+210/1805 10_points_GTv3_0289_inst_nostuff
+211/1805 10_points_GTv3_028_inst_nostuff
+212/1805 10_points_GTv3_0290_inst_nostuff
+213/1805 10_points_GTv3_0291_inst_nostuff
+214/1805 10_points_GTv3_0292_inst_nostuff
+215/1805 10_points_GTv3_0293_inst_nostuff
+216/1805 10_points_GTv3_0294_inst_nostuff
+217/1805 10_points_GTv3_0295_inst_nostuff
+218/1805 10_points_GTv3_0296_inst_nostuff
+219/1805 10_points_GTv3_0297_inst_nostuff
+220/1805 10_points_GTv3_0298_inst_nostuff
+221/1805 10_points_GTv3_0299_inst_nostuff
+222/1805 10_points_GTv3_029_inst_nostuff
+223/1805 10_points_GTv3_02_inst_nostuff
+224/1805 10_points_GTv3_0300_inst_nostuff
+225/1805 10_points_GTv3_0301_inst_nostuff
+226/1805 10_points_GTv3_0302_inst_nostuff
+227/1805 10_points_GTv3_0303_inst_nostuff
+228/1805 10_points_GTv3_0304_inst_nostuff
+229/1805 10_points_GTv3_0305_inst_nostuff
+230/1805 10_points_GTv3_0306_inst_nostuff
+231/1805 10_points_GTv3_0307_inst_nostuff
+232/1805 10_points_GTv3_0308_inst_nostuff
+233/1805 10_points_GTv3_0309_inst_nostuff
+234/1805 10_points_GTv3_030_inst_nostuff
+235/1805 10_points_GTv3_0310_inst_nostuff
+236/1805 10_points_GTv3_0311_inst_nostuff
+237/1805 10_points_GTv3_0312_inst_nostuff
+238/1805 10_points_GTv3_0313_inst_nostuff
+239/1805 10_points_GTv3_0314_inst_nostuff
+240/1805 10_points_GTv3_0315_inst_nostuff
+241/1805 10_points_GTv3_0316_inst_nostuff
+242/1805 10_points_GTv3_0317_inst_nostuff
+243/1805 10_points_GTv3_0318_inst_nostuff
+244/1805 10_points_GTv3_0319_inst_nostuff
+245/1805 10_points_GTv3_031_inst_nostuff
+246/1805 10_points_GTv3_0320_inst_nostuff
+247/1805 10_points_GTv3_0321_inst_nostuff
+248/1805 10_points_GTv3_0322_inst_nostuff
+249/1805 10_points_GTv3_0323_inst_nostuff
+250/1805 10_points_GTv3_0324_inst_nostuff
+251/1805 10_points_GTv3_0325_inst_nostuff
+252/1805 10_points_GTv3_0326_inst_nostuff
+253/1805 10_points_GTv3_0327_inst_nostuff
+254/1805 10_points_GTv3_0328_inst_nostuff
+255/1805 10_points_GTv3_0329_inst_nostuff
+256/1805 10_points_GTv3_032_inst_nostuff
+257/1805 10_points_GTv3_0330_inst_nostuff
+258/1805 10_points_GTv3_0331_inst_nostuff
+259/1805 10_points_GTv3_0332_inst_nostuff
+260/1805 10_points_GTv3_0333_inst_nostuff
+261/1805 10_points_GTv3_0334_inst_nostuff
+262/1805 10_points_GTv3_0335_inst_nostuff
+263/1805 10_points_GTv3_0336_inst_nostuff
+264/1805 10_points_GTv3_0337_inst_nostuff
+265/1805 10_points_GTv3_0338_inst_nostuff
+266/1805 10_points_GTv3_0339_inst_nostuff
+267/1805 10_points_GTv3_033_inst_nostuff
+268/1805 10_points_GTv3_0340_inst_nostuff
+269/1805 10_points_GTv3_0341_inst_nostuff
+270/1805 10_points_GTv3_0342_inst_nostuff
+271/1805 10_points_GTv3_0343_inst_nostuff
+272/1805 10_points_GTv3_0344_inst_nostuff
+273/1805 10_points_GTv3_0345_inst_nostuff
+274/1805 10_points_GTv3_0346_inst_nostuff
+275/1805 10_points_GTv3_0347_inst_nostuff
+276/1805 10_points_GTv3_0348_inst_nostuff
+277/1805 10_points_GTv3_0349_inst_nostuff
+278/1805 10_points_GTv3_034_inst_nostuff
+279/1805 10_points_GTv3_0350_inst_nostuff
+280/1805 10_points_GTv3_0351_inst_nostuff
+281/1805 10_points_GTv3_0352_inst_nostuff
+282/1805 10_points_GTv3_0353_inst_nostuff
+283/1805 10_points_GTv3_0354_inst_nostuff
+284/1805 10_points_GTv3_0355_inst_nostuff
+285/1805 10_points_GTv3_0356_inst_nostuff
+286/1805 10_points_GTv3_0357_inst_nostuff
+287/1805 10_points_GTv3_0358_inst_nostuff
+288/1805 10_points_GTv3_0359_inst_nostuff
+289/1805 10_points_GTv3_035_inst_nostuff
+290/1805 10_points_GTv3_0360_inst_nostuff
+291/1805 10_points_GTv3_036_inst_nostuff
+292/1805 10_points_GTv3_037_inst_nostuff
+293/1805 10_points_GTv3_038_inst_nostuff
+294/1805 10_points_GTv3_039_inst_nostuff
+295/1805 10_points_GTv3_03_inst_nostuff
+296/1805 10_points_GTv3_040_inst_nostuff
+297/1805 10_points_GTv3_041_inst_nostuff
+298/1805 10_points_GTv3_042_inst_nostuff
+299/1805 10_points_GTv3_043_inst_nostuff
+300/1805 10_points_GTv3_044_inst_nostuff
+301/1805 10_points_GTv3_045_inst_nostuff
+302/1805 10_points_GTv3_046_inst_nostuff
+303/1805 10_points_GTv3_047_inst_nostuff
+304/1805 10_points_GTv3_048_inst_nostuff
+305/1805 10_points_GTv3_049_inst_nostuff
+306/1805 10_points_GTv3_04_inst_nostuff
+307/1805 10_points_GTv3_050_inst_nostuff
+308/1805 10_points_GTv3_051_inst_nostuff
+309/1805 10_points_GTv3_052_inst_nostuff
+310/1805 10_points_GTv3_053_inst_nostuff
+311/1805 10_points_GTv3_054_inst_nostuff
+312/1805 10_points_GTv3_055_inst_nostuff
+313/1805 10_points_GTv3_056_inst_nostuff
+314/1805 10_points_GTv3_057_inst_nostuff
+315/1805 10_points_GTv3_058_inst_nostuff
+316/1805 10_points_GTv3_059_inst_nostuff
+317/1805 10_points_GTv3_05_inst_nostuff
+318/1805 10_points_GTv3_060_inst_nostuff
+319/1805 10_points_GTv3_061_inst_nostuff
+320/1805 10_points_GTv3_062_inst_nostuff
+321/1805 10_points_GTv3_063_inst_nostuff
+322/1805 10_points_GTv3_064_inst_nostuff
+323/1805 10_points_GTv3_065_inst_nostuff
+324/1805 10_points_GTv3_066_inst_nostuff
+325/1805 10_points_GTv3_067_inst_nostuff
+326/1805 10_points_GTv3_068_inst_nostuff
+327/1805 10_points_GTv3_069_inst_nostuff
+328/1805 10_points_GTv3_06_inst_nostuff
+329/1805 10_points_GTv3_070_inst_nostuff
+330/1805 10_points_GTv3_071_inst_nostuff
+331/1805 10_points_GTv3_072_inst_nostuff
+332/1805 10_points_GTv3_073_inst_nostuff
+333/1805 10_points_GTv3_074_inst_nostuff
+334/1805 10_points_GTv3_075_inst_nostuff
+335/1805 10_points_GTv3_076_inst_nostuff
+336/1805 10_points_GTv3_077_inst_nostuff
+337/1805 10_points_GTv3_078_inst_nostuff
+338/1805 10_points_GTv3_079_inst_nostuff
+339/1805 10_points_GTv3_07_inst_nostuff
+340/1805 10_points_GTv3_080_inst_nostuff
+341/1805 10_points_GTv3_081_inst_nostuff
+342/1805 10_points_GTv3_082_inst_nostuff
+343/1805 10_points_GTv3_083_inst_nostuff
+344/1805 10_points_GTv3_084_inst_nostuff
+345/1805 10_points_GTv3_085_inst_nostuff
+346/1805 10_points_GTv3_086_inst_nostuff
+347/1805 10_points_GTv3_087_inst_nostuff
+348/1805 10_points_GTv3_088_inst_nostuff
+349/1805 10_points_GTv3_089_inst_nostuff
+350/1805 10_points_GTv3_08_inst_nostuff
+351/1805 10_points_GTv3_090_inst_nostuff
+352/1805 10_points_GTv3_091_inst_nostuff
+353/1805 10_points_GTv3_092_inst_nostuff
+354/1805 10_points_GTv3_093_inst_nostuff
+355/1805 10_points_GTv3_094_inst_nostuff
+356/1805 10_points_GTv3_095_inst_nostuff
+357/1805 10_points_GTv3_096_inst_nostuff
+358/1805 10_points_GTv3_097_inst_nostuff
+359/1805 10_points_GTv3_098_inst_nostuff
+360/1805 10_points_GTv3_099_inst_nostuff
+361/1805 10_points_GTv3_09_inst_nostuff
+362/1805 15_points_GTv3_00_inst_nostuff
+363/1805 15_points_GTv3_0100_inst_nostuff
+364/1805 15_points_GTv3_0101_inst_nostuff
+365/1805 15_points_GTv3_0102_inst_nostuff
+366/1805 15_points_GTv3_0103_inst_nostuff
+367/1805 15_points_GTv3_0104_inst_nostuff
+368/1805 15_points_GTv3_0105_inst_nostuff
+369/1805 15_points_GTv3_0106_inst_nostuff
+370/1805 15_points_GTv3_0107_inst_nostuff
+371/1805 15_points_GTv3_0108_inst_nostuff
+372/1805 15_points_GTv3_0109_inst_nostuff
+373/1805 15_points_GTv3_010_inst_nostuff
+374/1805 15_points_GTv3_0110_inst_nostuff
+375/1805 15_points_GTv3_0111_inst_nostuff
+376/1805 15_points_GTv3_0112_inst_nostuff
+377/1805 15_points_GTv3_0113_inst_nostuff
+378/1805 15_points_GTv3_0114_inst_nostuff
+379/1805 15_points_GTv3_0115_inst_nostuff
+380/1805 15_points_GTv3_0116_inst_nostuff
+381/1805 15_points_GTv3_0117_inst_nostuff
+382/1805 15_points_GTv3_0118_inst_nostuff
+383/1805 15_points_GTv3_0119_inst_nostuff
+384/1805 15_points_GTv3_011_inst_nostuff
+385/1805 15_points_GTv3_0120_inst_nostuff
+386/1805 15_points_GTv3_0121_inst_nostuff
+387/1805 15_points_GTv3_0122_inst_nostuff
+388/1805 15_points_GTv3_0123_inst_nostuff
+389/1805 15_points_GTv3_0124_inst_nostuff
+390/1805 15_points_GTv3_0125_inst_nostuff
+391/1805 15_points_GTv3_0126_inst_nostuff
+392/1805 15_points_GTv3_0127_inst_nostuff
+393/1805 15_points_GTv3_0128_inst_nostuff
+394/1805 15_points_GTv3_0129_inst_nostuff
+395/1805 15_points_GTv3_012_inst_nostuff
+396/1805 15_points_GTv3_0130_inst_nostuff
+397/1805 15_points_GTv3_0131_inst_nostuff
+398/1805 15_points_GTv3_0132_inst_nostuff
+399/1805 15_points_GTv3_0133_inst_nostuff
+400/1805 15_points_GTv3_0134_inst_nostuff
+401/1805 15_points_GTv3_0135_inst_nostuff
+402/1805 15_points_GTv3_0136_inst_nostuff
+403/1805 15_points_GTv3_0137_inst_nostuff
+404/1805 15_points_GTv3_0138_inst_nostuff
+405/1805 15_points_GTv3_0139_inst_nostuff
+406/1805 15_points_GTv3_013_inst_nostuff
+407/1805 15_points_GTv3_0140_inst_nostuff
+408/1805 15_points_GTv3_0141_inst_nostuff
+409/1805 15_points_GTv3_0142_inst_nostuff
+410/1805 15_points_GTv3_0143_inst_nostuff
+411/1805 15_points_GTv3_0144_inst_nostuff
+412/1805 15_points_GTv3_0145_inst_nostuff
+413/1805 15_points_GTv3_0146_inst_nostuff
+414/1805 15_points_GTv3_0147_inst_nostuff
+415/1805 15_points_GTv3_0148_inst_nostuff
+416/1805 15_points_GTv3_0149_inst_nostuff
+417/1805 15_points_GTv3_014_inst_nostuff
+418/1805 15_points_GTv3_0150_inst_nostuff
+419/1805 15_points_GTv3_0151_inst_nostuff
+420/1805 15_points_GTv3_0152_inst_nostuff
+421/1805 15_points_GTv3_0153_inst_nostuff
+422/1805 15_points_GTv3_0154_inst_nostuff
+423/1805 15_points_GTv3_0155_inst_nostuff
+424/1805 15_points_GTv3_0156_inst_nostuff
+425/1805 15_points_GTv3_0157_inst_nostuff
+426/1805 15_points_GTv3_0158_inst_nostuff
+427/1805 15_points_GTv3_0159_inst_nostuff
+428/1805 15_points_GTv3_015_inst_nostuff
+429/1805 15_points_GTv3_0160_inst_nostuff
+430/1805 15_points_GTv3_0161_inst_nostuff
+431/1805 15_points_GTv3_0162_inst_nostuff
+432/1805 15_points_GTv3_0163_inst_nostuff
+433/1805 15_points_GTv3_0164_inst_nostuff
+434/1805 15_points_GTv3_0165_inst_nostuff
+435/1805 15_points_GTv3_0166_inst_nostuff
+436/1805 15_points_GTv3_0167_inst_nostuff
+437/1805 15_points_GTv3_0168_inst_nostuff
+438/1805 15_points_GTv3_0169_inst_nostuff
+439/1805 15_points_GTv3_016_inst_nostuff
+440/1805 15_points_GTv3_0170_inst_nostuff
+441/1805 15_points_GTv3_0171_inst_nostuff
+442/1805 15_points_GTv3_0172_inst_nostuff
+443/1805 15_points_GTv3_0173_inst_nostuff
+444/1805 15_points_GTv3_0174_inst_nostuff
+445/1805 15_points_GTv3_0175_inst_nostuff
+446/1805 15_points_GTv3_0176_inst_nostuff
+447/1805 15_points_GTv3_0177_inst_nostuff
+448/1805 15_points_GTv3_0178_inst_nostuff
+449/1805 15_points_GTv3_0179_inst_nostuff
+450/1805 15_points_GTv3_017_inst_nostuff
+451/1805 15_points_GTv3_0180_inst_nostuff
+452/1805 15_points_GTv3_0181_inst_nostuff
+453/1805 15_points_GTv3_0182_inst_nostuff
+454/1805 15_points_GTv3_0183_inst_nostuff
+455/1805 15_points_GTv3_0184_inst_nostuff
+456/1805 15_points_GTv3_0185_inst_nostuff
+457/1805 15_points_GTv3_0186_inst_nostuff
+458/1805 15_points_GTv3_0187_inst_nostuff
+459/1805 15_points_GTv3_0188_inst_nostuff
+460/1805 15_points_GTv3_0189_inst_nostuff
+461/1805 15_points_GTv3_018_inst_nostuff
+462/1805 15_points_GTv3_0190_inst_nostuff
+463/1805 15_points_GTv3_0191_inst_nostuff
+464/1805 15_points_GTv3_0192_inst_nostuff
+465/1805 15_points_GTv3_0193_inst_nostuff
+466/1805 15_points_GTv3_0194_inst_nostuff
+467/1805 15_points_GTv3_0195_inst_nostuff
+468/1805 15_points_GTv3_0196_inst_nostuff
+469/1805 15_points_GTv3_0197_inst_nostuff
+470/1805 15_points_GTv3_0198_inst_nostuff
+471/1805 15_points_GTv3_0199_inst_nostuff
+472/1805 15_points_GTv3_019_inst_nostuff
+473/1805 15_points_GTv3_01_inst_nostuff
+474/1805 15_points_GTv3_0200_inst_nostuff
+475/1805 15_points_GTv3_0201_inst_nostuff
+476/1805 15_points_GTv3_0202_inst_nostuff
+477/1805 15_points_GTv3_0203_inst_nostuff
+478/1805 15_points_GTv3_0204_inst_nostuff
+479/1805 15_points_GTv3_0205_inst_nostuff
+480/1805 15_points_GTv3_0206_inst_nostuff
+481/1805 15_points_GTv3_0207_inst_nostuff
+482/1805 15_points_GTv3_0208_inst_nostuff
+483/1805 15_points_GTv3_0209_inst_nostuff
+484/1805 15_points_GTv3_020_inst_nostuff
+485/1805 15_points_GTv3_0210_inst_nostuff
+486/1805 15_points_GTv3_0211_inst_nostuff
+487/1805 15_points_GTv3_0212_inst_nostuff
+488/1805 15_points_GTv3_0213_inst_nostuff
+489/1805 15_points_GTv3_0214_inst_nostuff
+490/1805 15_points_GTv3_0215_inst_nostuff
+491/1805 15_points_GTv3_0216_inst_nostuff
+492/1805 15_points_GTv3_0217_inst_nostuff
+493/1805 15_points_GTv3_0218_inst_nostuff
+494/1805 15_points_GTv3_0219_inst_nostuff
+495/1805 15_points_GTv3_021_inst_nostuff
+496/1805 15_points_GTv3_0220_inst_nostuff
+497/1805 15_points_GTv3_0221_inst_nostuff
+498/1805 15_points_GTv3_0222_inst_nostuff
+499/1805 15_points_GTv3_0223_inst_nostuff
+500/1805 15_points_GTv3_0224_inst_nostuff
+501/1805 15_points_GTv3_0225_inst_nostuff
+502/1805 15_points_GTv3_0226_inst_nostuff
+503/1805 15_points_GTv3_0227_inst_nostuff
+504/1805 15_points_GTv3_0228_inst_nostuff
+505/1805 15_points_GTv3_0229_inst_nostuff
+506/1805 15_points_GTv3_022_inst_nostuff
+507/1805 15_points_GTv3_0230_inst_nostuff
+508/1805 15_points_GTv3_0231_inst_nostuff
+509/1805 15_points_GTv3_0232_inst_nostuff
+510/1805 15_points_GTv3_0233_inst_nostuff
+511/1805 15_points_GTv3_0234_inst_nostuff
+512/1805 15_points_GTv3_0235_inst_nostuff
+513/1805 15_points_GTv3_0236_inst_nostuff
+514/1805 15_points_GTv3_0237_inst_nostuff
+515/1805 15_points_GTv3_0238_inst_nostuff
+516/1805 15_points_GTv3_0239_inst_nostuff
+517/1805 15_points_GTv3_023_inst_nostuff
+518/1805 15_points_GTv3_0240_inst_nostuff
+519/1805 15_points_GTv3_0241_inst_nostuff
+520/1805 15_points_GTv3_0242_inst_nostuff
+521/1805 15_points_GTv3_0243_inst_nostuff
+522/1805 15_points_GTv3_0244_inst_nostuff
+523/1805 15_points_GTv3_0245_inst_nostuff
+524/1805 15_points_GTv3_0246_inst_nostuff
+525/1805 15_points_GTv3_0247_inst_nostuff
+526/1805 15_points_GTv3_0248_inst_nostuff
+527/1805 15_points_GTv3_0249_inst_nostuff
+528/1805 15_points_GTv3_024_inst_nostuff
+529/1805 15_points_GTv3_0250_inst_nostuff
+530/1805 15_points_GTv3_0251_inst_nostuff
+531/1805 15_points_GTv3_0252_inst_nostuff
+532/1805 15_points_GTv3_0253_inst_nostuff
+533/1805 15_points_GTv3_0254_inst_nostuff
+534/1805 15_points_GTv3_0255_inst_nostuff
+535/1805 15_points_GTv3_0256_inst_nostuff
+536/1805 15_points_GTv3_0257_inst_nostuff
+537/1805 15_points_GTv3_0258_inst_nostuff
+538/1805 15_points_GTv3_0259_inst_nostuff
+539/1805 15_points_GTv3_025_inst_nostuff
+540/1805 15_points_GTv3_0260_inst_nostuff
+541/1805 15_points_GTv3_0261_inst_nostuff
+542/1805 15_points_GTv3_0262_inst_nostuff
+543/1805 15_points_GTv3_0263_inst_nostuff
+544/1805 15_points_GTv3_0264_inst_nostuff
+545/1805 15_points_GTv3_0265_inst_nostuff
+546/1805 15_points_GTv3_0266_inst_nostuff
+547/1805 15_points_GTv3_0267_inst_nostuff
+548/1805 15_points_GTv3_0268_inst_nostuff
+549/1805 15_points_GTv3_0269_inst_nostuff
+550/1805 15_points_GTv3_026_inst_nostuff
+551/1805 15_points_GTv3_0270_inst_nostuff
+552/1805 15_points_GTv3_0271_inst_nostuff
+553/1805 15_points_GTv3_0272_inst_nostuff
+554/1805 15_points_GTv3_0273_inst_nostuff
+555/1805 15_points_GTv3_0274_inst_nostuff
+556/1805 15_points_GTv3_0275_inst_nostuff
+557/1805 15_points_GTv3_0276_inst_nostuff
+558/1805 15_points_GTv3_0277_inst_nostuff
+559/1805 15_points_GTv3_0278_inst_nostuff
+560/1805 15_points_GTv3_0279_inst_nostuff
+561/1805 15_points_GTv3_027_inst_nostuff
+562/1805 15_points_GTv3_0280_inst_nostuff
+563/1805 15_points_GTv3_0281_inst_nostuff
+564/1805 15_points_GTv3_0282_inst_nostuff
+565/1805 15_points_GTv3_0283_inst_nostuff
+566/1805 15_points_GTv3_0284_inst_nostuff
+567/1805 15_points_GTv3_0285_inst_nostuff
+568/1805 15_points_GTv3_0286_inst_nostuff
+569/1805 15_points_GTv3_0287_inst_nostuff
+570/1805 15_points_GTv3_0288_inst_nostuff
+571/1805 15_points_GTv3_0289_inst_nostuff
+572/1805 15_points_GTv3_028_inst_nostuff
+573/1805 15_points_GTv3_0290_inst_nostuff
+574/1805 15_points_GTv3_0291_inst_nostuff
+575/1805 15_points_GTv3_0292_inst_nostuff
+576/1805 15_points_GTv3_0293_inst_nostuff
+577/1805 15_points_GTv3_0294_inst_nostuff
+578/1805 15_points_GTv3_0295_inst_nostuff
+579/1805 15_points_GTv3_0296_inst_nostuff
+580/1805 15_points_GTv3_0297_inst_nostuff
+581/1805 15_points_GTv3_0298_inst_nostuff
+582/1805 15_points_GTv3_0299_inst_nostuff
+583/1805 15_points_GTv3_029_inst_nostuff
+584/1805 15_points_GTv3_02_inst_nostuff
+585/1805 15_points_GTv3_0300_inst_nostuff
+586/1805 15_points_GTv3_0301_inst_nostuff
+587/1805 15_points_GTv3_0302_inst_nostuff
+588/1805 15_points_GTv3_0303_inst_nostuff
+589/1805 15_points_GTv3_0304_inst_nostuff
+590/1805 15_points_GTv3_0305_inst_nostuff
+591/1805 15_points_GTv3_0306_inst_nostuff
+592/1805 15_points_GTv3_0307_inst_nostuff
+593/1805 15_points_GTv3_0308_inst_nostuff
+594/1805 15_points_GTv3_0309_inst_nostuff
+595/1805 15_points_GTv3_030_inst_nostuff
+596/1805 15_points_GTv3_0310_inst_nostuff
+597/1805 15_points_GTv3_0311_inst_nostuff
+598/1805 15_points_GTv3_0312_inst_nostuff
+599/1805 15_points_GTv3_0313_inst_nostuff
+600/1805 15_points_GTv3_0314_inst_nostuff
+601/1805 15_points_GTv3_0315_inst_nostuff
+602/1805 15_points_GTv3_0316_inst_nostuff
+603/1805 15_points_GTv3_0317_inst_nostuff
+604/1805 15_points_GTv3_0318_inst_nostuff
+605/1805 15_points_GTv3_0319_inst_nostuff
+606/1805 15_points_GTv3_031_inst_nostuff
+607/1805 15_points_GTv3_0320_inst_nostuff
+608/1805 15_points_GTv3_0321_inst_nostuff
+609/1805 15_points_GTv3_0322_inst_nostuff
+610/1805 15_points_GTv3_0323_inst_nostuff
+611/1805 15_points_GTv3_0324_inst_nostuff
+612/1805 15_points_GTv3_0325_inst_nostuff
+613/1805 15_points_GTv3_0326_inst_nostuff
+614/1805 15_points_GTv3_0327_inst_nostuff
+615/1805 15_points_GTv3_0328_inst_nostuff
+616/1805 15_points_GTv3_0329_inst_nostuff
+617/1805 15_points_GTv3_032_inst_nostuff
+618/1805 15_points_GTv3_0330_inst_nostuff
+619/1805 15_points_GTv3_0331_inst_nostuff
+620/1805 15_points_GTv3_0332_inst_nostuff
+621/1805 15_points_GTv3_0333_inst_nostuff
+622/1805 15_points_GTv3_0334_inst_nostuff
+623/1805 15_points_GTv3_0335_inst_nostuff
+624/1805 15_points_GTv3_0336_inst_nostuff
+625/1805 15_points_GTv3_0337_inst_nostuff
+626/1805 15_points_GTv3_0338_inst_nostuff
+627/1805 15_points_GTv3_0339_inst_nostuff
+628/1805 15_points_GTv3_033_inst_nostuff
+629/1805 15_points_GTv3_0340_inst_nostuff
+630/1805 15_points_GTv3_0341_inst_nostuff
+631/1805 15_points_GTv3_0342_inst_nostuff
+632/1805 15_points_GTv3_0343_inst_nostuff
+633/1805 15_points_GTv3_0344_inst_nostuff
+634/1805 15_points_GTv3_0345_inst_nostuff
+635/1805 15_points_GTv3_0346_inst_nostuff
+636/1805 15_points_GTv3_0347_inst_nostuff
+637/1805 15_points_GTv3_0348_inst_nostuff
+638/1805 15_points_GTv3_0349_inst_nostuff
+639/1805 15_points_GTv3_034_inst_nostuff
+640/1805 15_points_GTv3_0350_inst_nostuff
+641/1805 15_points_GTv3_0351_inst_nostuff
+642/1805 15_points_GTv3_0352_inst_nostuff
+643/1805 15_points_GTv3_0353_inst_nostuff
+644/1805 15_points_GTv3_0354_inst_nostuff
+645/1805 15_points_GTv3_0355_inst_nostuff
+646/1805 15_points_GTv3_0356_inst_nostuff
+647/1805 15_points_GTv3_0357_inst_nostuff
+648/1805 15_points_GTv3_0358_inst_nostuff
+649/1805 15_points_GTv3_0359_inst_nostuff
+650/1805 15_points_GTv3_035_inst_nostuff
+651/1805 15_points_GTv3_0360_inst_nostuff
+652/1805 15_points_GTv3_036_inst_nostuff
+653/1805 15_points_GTv3_037_inst_nostuff
+654/1805 15_points_GTv3_038_inst_nostuff
+655/1805 15_points_GTv3_039_inst_nostuff
+656/1805 15_points_GTv3_03_inst_nostuff
+657/1805 15_points_GTv3_040_inst_nostuff
+658/1805 15_points_GTv3_041_inst_nostuff
+659/1805 15_points_GTv3_042_inst_nostuff
+660/1805 15_points_GTv3_043_inst_nostuff
+661/1805 15_points_GTv3_044_inst_nostuff
+662/1805 15_points_GTv3_045_inst_nostuff
+663/1805 15_points_GTv3_046_inst_nostuff
+664/1805 15_points_GTv3_047_inst_nostuff
+665/1805 15_points_GTv3_048_inst_nostuff
+666/1805 15_points_GTv3_049_inst_nostuff
+667/1805 15_points_GTv3_04_inst_nostuff
+668/1805 15_points_GTv3_050_inst_nostuff
+669/1805 15_points_GTv3_051_inst_nostuff
+670/1805 15_points_GTv3_052_inst_nostuff
+671/1805 15_points_GTv3_053_inst_nostuff
+672/1805 15_points_GTv3_054_inst_nostuff
+673/1805 15_points_GTv3_055_inst_nostuff
+674/1805 15_points_GTv3_056_inst_nostuff
+675/1805 15_points_GTv3_057_inst_nostuff
+676/1805 15_points_GTv3_058_inst_nostuff
+677/1805 15_points_GTv3_059_inst_nostuff
+678/1805 15_points_GTv3_05_inst_nostuff
+679/1805 15_points_GTv3_060_inst_nostuff
+680/1805 15_points_GTv3_061_inst_nostuff
+681/1805 15_points_GTv3_062_inst_nostuff
+682/1805 15_points_GTv3_063_inst_nostuff
+683/1805 15_points_GTv3_064_inst_nostuff
+684/1805 15_points_GTv3_065_inst_nostuff
+685/1805 15_points_GTv3_066_inst_nostuff
+686/1805 15_points_GTv3_067_inst_nostuff
+687/1805 15_points_GTv3_068_inst_nostuff
+688/1805 15_points_GTv3_069_inst_nostuff
+689/1805 15_points_GTv3_06_inst_nostuff
+690/1805 15_points_GTv3_070_inst_nostuff
+691/1805 15_points_GTv3_071_inst_nostuff
+692/1805 15_points_GTv3_072_inst_nostuff
+693/1805 15_points_GTv3_073_inst_nostuff
+694/1805 15_points_GTv3_074_inst_nostuff
+695/1805 15_points_GTv3_075_inst_nostuff
+696/1805 15_points_GTv3_076_inst_nostuff
+697/1805 15_points_GTv3_077_inst_nostuff
+698/1805 15_points_GTv3_078_inst_nostuff
+699/1805 15_points_GTv3_079_inst_nostuff
+700/1805 15_points_GTv3_07_inst_nostuff
+701/1805 15_points_GTv3_080_inst_nostuff
+702/1805 15_points_GTv3_081_inst_nostuff
+703/1805 15_points_GTv3_082_inst_nostuff
+704/1805 15_points_GTv3_083_inst_nostuff
+705/1805 15_points_GTv3_084_inst_nostuff
+706/1805 15_points_GTv3_085_inst_nostuff
+707/1805 15_points_GTv3_086_inst_nostuff
+708/1805 15_points_GTv3_087_inst_nostuff
+709/1805 15_points_GTv3_088_inst_nostuff
+710/1805 15_points_GTv3_089_inst_nostuff
+711/1805 15_points_GTv3_08_inst_nostuff
+712/1805 15_points_GTv3_090_inst_nostuff
+713/1805 15_points_GTv3_091_inst_nostuff
+714/1805 15_points_GTv3_092_inst_nostuff
+715/1805 15_points_GTv3_093_inst_nostuff
+716/1805 15_points_GTv3_094_inst_nostuff
+717/1805 15_points_GTv3_095_inst_nostuff
+718/1805 15_points_GTv3_096_inst_nostuff
+719/1805 15_points_GTv3_097_inst_nostuff
+720/1805 15_points_GTv3_098_inst_nostuff
+721/1805 15_points_GTv3_099_inst_nostuff
+722/1805 15_points_GTv3_09_inst_nostuff
+723/1805 20_points_GTv3_00_inst_nostuff
+724/1805 20_points_GTv3_0100_inst_nostuff
+725/1805 20_points_GTv3_0101_inst_nostuff
+726/1805 20_points_GTv3_0102_inst_nostuff
+727/1805 20_points_GTv3_0103_inst_nostuff
+728/1805 20_points_GTv3_0104_inst_nostuff
+729/1805 20_points_GTv3_0105_inst_nostuff
+730/1805 20_points_GTv3_0106_inst_nostuff
+731/1805 20_points_GTv3_0107_inst_nostuff
+732/1805 20_points_GTv3_0108_inst_nostuff
+733/1805 20_points_GTv3_0109_inst_nostuff
+734/1805 20_points_GTv3_010_inst_nostuff
+735/1805 20_points_GTv3_0110_inst_nostuff
+736/1805 20_points_GTv3_0111_inst_nostuff
+737/1805 20_points_GTv3_0112_inst_nostuff
+738/1805 20_points_GTv3_0113_inst_nostuff
+739/1805 20_points_GTv3_0114_inst_nostuff
+740/1805 20_points_GTv3_0115_inst_nostuff
+741/1805 20_points_GTv3_0116_inst_nostuff
+742/1805 20_points_GTv3_0117_inst_nostuff
+743/1805 20_points_GTv3_0118_inst_nostuff
+744/1805 20_points_GTv3_0119_inst_nostuff
+745/1805 20_points_GTv3_011_inst_nostuff
+746/1805 20_points_GTv3_0120_inst_nostuff
+747/1805 20_points_GTv3_0121_inst_nostuff
+748/1805 20_points_GTv3_0122_inst_nostuff
+749/1805 20_points_GTv3_0123_inst_nostuff
+750/1805 20_points_GTv3_0124_inst_nostuff
+751/1805 20_points_GTv3_0125_inst_nostuff
+752/1805 20_points_GTv3_0126_inst_nostuff
+753/1805 20_points_GTv3_0127_inst_nostuff
+754/1805 20_points_GTv3_0128_inst_nostuff
+755/1805 20_points_GTv3_0129_inst_nostuff
+756/1805 20_points_GTv3_012_inst_nostuff
+757/1805 20_points_GTv3_0130_inst_nostuff
+758/1805 20_points_GTv3_0131_inst_nostuff
+759/1805 20_points_GTv3_0132_inst_nostuff
+760/1805 20_points_GTv3_0133_inst_nostuff
+761/1805 20_points_GTv3_0134_inst_nostuff
+762/1805 20_points_GTv3_0135_inst_nostuff
+763/1805 20_points_GTv3_0136_inst_nostuff
+764/1805 20_points_GTv3_0137_inst_nostuff
+765/1805 20_points_GTv3_0138_inst_nostuff
+766/1805 20_points_GTv3_0139_inst_nostuff
+767/1805 20_points_GTv3_013_inst_nostuff
+768/1805 20_points_GTv3_0140_inst_nostuff
+769/1805 20_points_GTv3_0141_inst_nostuff
+770/1805 20_points_GTv3_0142_inst_nostuff
+771/1805 20_points_GTv3_0143_inst_nostuff
+772/1805 20_points_GTv3_0144_inst_nostuff
+773/1805 20_points_GTv3_0145_inst_nostuff
+774/1805 20_points_GTv3_0146_inst_nostuff
+775/1805 20_points_GTv3_0147_inst_nostuff
+776/1805 20_points_GTv3_0148_inst_nostuff
+777/1805 20_points_GTv3_0149_inst_nostuff
+778/1805 20_points_GTv3_014_inst_nostuff
+779/1805 20_points_GTv3_0150_inst_nostuff
+780/1805 20_points_GTv3_0151_inst_nostuff
+781/1805 20_points_GTv3_0152_inst_nostuff
+782/1805 20_points_GTv3_0153_inst_nostuff
+783/1805 20_points_GTv3_0154_inst_nostuff
+784/1805 20_points_GTv3_0155_inst_nostuff
+785/1805 20_points_GTv3_0156_inst_nostuff
+786/1805 20_points_GTv3_0157_inst_nostuff
+787/1805 20_points_GTv3_0158_inst_nostuff
+788/1805 20_points_GTv3_0159_inst_nostuff
+789/1805 20_points_GTv3_015_inst_nostuff
+790/1805 20_points_GTv3_0160_inst_nostuff
+791/1805 20_points_GTv3_0161_inst_nostuff
+792/1805 20_points_GTv3_0162_inst_nostuff
+793/1805 20_points_GTv3_0163_inst_nostuff
+794/1805 20_points_GTv3_0164_inst_nostuff
+795/1805 20_points_GTv3_0165_inst_nostuff
+796/1805 20_points_GTv3_0166_inst_nostuff
+797/1805 20_points_GTv3_0167_inst_nostuff
+798/1805 20_points_GTv3_0168_inst_nostuff
+799/1805 20_points_GTv3_0169_inst_nostuff
+800/1805 20_points_GTv3_016_inst_nostuff
+801/1805 20_points_GTv3_0170_inst_nostuff
+802/1805 20_points_GTv3_0171_inst_nostuff
+803/1805 20_points_GTv3_0172_inst_nostuff
+804/1805 20_points_GTv3_0173_inst_nostuff
+805/1805 20_points_GTv3_0174_inst_nostuff
+806/1805 20_points_GTv3_0175_inst_nostuff
+807/1805 20_points_GTv3_0176_inst_nostuff
+808/1805 20_points_GTv3_0177_inst_nostuff
+809/1805 20_points_GTv3_0178_inst_nostuff
+810/1805 20_points_GTv3_0179_inst_nostuff
+811/1805 20_points_GTv3_017_inst_nostuff
+812/1805 20_points_GTv3_0180_inst_nostuff
+813/1805 20_points_GTv3_0181_inst_nostuff
+814/1805 20_points_GTv3_0182_inst_nostuff
+815/1805 20_points_GTv3_0183_inst_nostuff
+816/1805 20_points_GTv3_0184_inst_nostuff
+817/1805 20_points_GTv3_0185_inst_nostuff
+818/1805 20_points_GTv3_0186_inst_nostuff
+819/1805 20_points_GTv3_0187_inst_nostuff
+820/1805 20_points_GTv3_0188_inst_nostuff
+821/1805 20_points_GTv3_0189_inst_nostuff
+822/1805 20_points_GTv3_018_inst_nostuff
+823/1805 20_points_GTv3_0190_inst_nostuff
+824/1805 20_points_GTv3_0191_inst_nostuff
+825/1805 20_points_GTv3_0192_inst_nostuff
+826/1805 20_points_GTv3_0193_inst_nostuff
+827/1805 20_points_GTv3_0194_inst_nostuff
+828/1805 20_points_GTv3_0195_inst_nostuff
+829/1805 20_points_GTv3_0196_inst_nostuff
+830/1805 20_points_GTv3_0197_inst_nostuff
+831/1805 20_points_GTv3_0198_inst_nostuff
+832/1805 20_points_GTv3_0199_inst_nostuff
+833/1805 20_points_GTv3_019_inst_nostuff
+834/1805 20_points_GTv3_01_inst_nostuff
+835/1805 20_points_GTv3_0200_inst_nostuff
+836/1805 20_points_GTv3_0201_inst_nostuff
+837/1805 20_points_GTv3_0202_inst_nostuff
+838/1805 20_points_GTv3_0203_inst_nostuff
+839/1805 20_points_GTv3_0204_inst_nostuff
+840/1805 20_points_GTv3_0205_inst_nostuff
+841/1805 20_points_GTv3_0206_inst_nostuff
+842/1805 20_points_GTv3_0207_inst_nostuff
+843/1805 20_points_GTv3_0208_inst_nostuff
+844/1805 20_points_GTv3_0209_inst_nostuff
+845/1805 20_points_GTv3_020_inst_nostuff
+846/1805 20_points_GTv3_0210_inst_nostuff
+847/1805 20_points_GTv3_0211_inst_nostuff
+848/1805 20_points_GTv3_0212_inst_nostuff
+849/1805 20_points_GTv3_0213_inst_nostuff
+850/1805 20_points_GTv3_0214_inst_nostuff
+851/1805 20_points_GTv3_0215_inst_nostuff
+852/1805 20_points_GTv3_0216_inst_nostuff
+853/1805 20_points_GTv3_0217_inst_nostuff
+854/1805 20_points_GTv3_0218_inst_nostuff
+855/1805 20_points_GTv3_0219_inst_nostuff
+856/1805 20_points_GTv3_021_inst_nostuff
+857/1805 20_points_GTv3_0220_inst_nostuff
+858/1805 20_points_GTv3_0221_inst_nostuff
+859/1805 20_points_GTv3_0222_inst_nostuff
+860/1805 20_points_GTv3_0223_inst_nostuff
+861/1805 20_points_GTv3_0224_inst_nostuff
+862/1805 20_points_GTv3_0225_inst_nostuff
+863/1805 20_points_GTv3_0226_inst_nostuff
+864/1805 20_points_GTv3_0227_inst_nostuff
+865/1805 20_points_GTv3_0228_inst_nostuff
+866/1805 20_points_GTv3_0229_inst_nostuff
+867/1805 20_points_GTv3_022_inst_nostuff
+868/1805 20_points_GTv3_0230_inst_nostuff
+869/1805 20_points_GTv3_0231_inst_nostuff
+870/1805 20_points_GTv3_0232_inst_nostuff
+871/1805 20_points_GTv3_0233_inst_nostuff
+872/1805 20_points_GTv3_0234_inst_nostuff
+873/1805 20_points_GTv3_0235_inst_nostuff
+874/1805 20_points_GTv3_0236_inst_nostuff
+875/1805 20_points_GTv3_0237_inst_nostuff
+876/1805 20_points_GTv3_0238_inst_nostuff
+877/1805 20_points_GTv3_0239_inst_nostuff
+878/1805 20_points_GTv3_023_inst_nostuff
+879/1805 20_points_GTv3_0240_inst_nostuff
+880/1805 20_points_GTv3_0241_inst_nostuff
+881/1805 20_points_GTv3_0242_inst_nostuff
+882/1805 20_points_GTv3_0243_inst_nostuff
+883/1805 20_points_GTv3_0244_inst_nostuff
+884/1805 20_points_GTv3_0245_inst_nostuff
+885/1805 20_points_GTv3_0246_inst_nostuff
+886/1805 20_points_GTv3_0247_inst_nostuff
+887/1805 20_points_GTv3_0248_inst_nostuff
+888/1805 20_points_GTv3_0249_inst_nostuff
+889/1805 20_points_GTv3_024_inst_nostuff
+890/1805 20_points_GTv3_0250_inst_nostuff
+891/1805 20_points_GTv3_0251_inst_nostuff
+892/1805 20_points_GTv3_0252_inst_nostuff
+893/1805 20_points_GTv3_0253_inst_nostuff
+894/1805 20_points_GTv3_0254_inst_nostuff
+895/1805 20_points_GTv3_0255_inst_nostuff
+896/1805 20_points_GTv3_0256_inst_nostuff
+897/1805 20_points_GTv3_0257_inst_nostuff
+898/1805 20_points_GTv3_0258_inst_nostuff
+899/1805 20_points_GTv3_0259_inst_nostuff
+900/1805 20_points_GTv3_025_inst_nostuff
+901/1805 20_points_GTv3_0260_inst_nostuff
+902/1805 20_points_GTv3_0261_inst_nostuff
+903/1805 20_points_GTv3_0262_inst_nostuff
+904/1805 20_points_GTv3_0263_inst_nostuff
+905/1805 20_points_GTv3_0264_inst_nostuff
+906/1805 20_points_GTv3_0265_inst_nostuff
+907/1805 20_points_GTv3_0266_inst_nostuff
+908/1805 20_points_GTv3_0267_inst_nostuff
+909/1805 20_points_GTv3_0268_inst_nostuff
+910/1805 20_points_GTv3_0269_inst_nostuff
+911/1805 20_points_GTv3_026_inst_nostuff
+912/1805 20_points_GTv3_0270_inst_nostuff
+913/1805 20_points_GTv3_0271_inst_nostuff
+914/1805 20_points_GTv3_0272_inst_nostuff
+915/1805 20_points_GTv3_0273_inst_nostuff
+916/1805 20_points_GTv3_0274_inst_nostuff
+917/1805 20_points_GTv3_0275_inst_nostuff
+918/1805 20_points_GTv3_0276_inst_nostuff
+919/1805 20_points_GTv3_0277_inst_nostuff
+920/1805 20_points_GTv3_0278_inst_nostuff
+921/1805 20_points_GTv3_0279_inst_nostuff
+922/1805 20_points_GTv3_027_inst_nostuff
+923/1805 20_points_GTv3_0280_inst_nostuff
+924/1805 20_points_GTv3_0281_inst_nostuff
+925/1805 20_points_GTv3_0282_inst_nostuff
+926/1805 20_points_GTv3_0283_inst_nostuff
+927/1805 20_points_GTv3_0284_inst_nostuff
+928/1805 20_points_GTv3_0285_inst_nostuff
+929/1805 20_points_GTv3_0286_inst_nostuff
+930/1805 20_points_GTv3_0287_inst_nostuff
+931/1805 20_points_GTv3_0288_inst_nostuff
+932/1805 20_points_GTv3_0289_inst_nostuff
+933/1805 20_points_GTv3_028_inst_nostuff
+934/1805 20_points_GTv3_0290_inst_nostuff
+935/1805 20_points_GTv3_0291_inst_nostuff
+936/1805 20_points_GTv3_0292_inst_nostuff
+937/1805 20_points_GTv3_0293_inst_nostuff
+938/1805 20_points_GTv3_0294_inst_nostuff
+939/1805 20_points_GTv3_0295_inst_nostuff
+940/1805 20_points_GTv3_0296_inst_nostuff
+941/1805 20_points_GTv3_0297_inst_nostuff
+942/1805 20_points_GTv3_0298_inst_nostuff
+943/1805 20_points_GTv3_0299_inst_nostuff
+944/1805 20_points_GTv3_029_inst_nostuff
+945/1805 20_points_GTv3_02_inst_nostuff
+946/1805 20_points_GTv3_0300_inst_nostuff
+947/1805 20_points_GTv3_0301_inst_nostuff
+948/1805 20_points_GTv3_0302_inst_nostuff
+949/1805 20_points_GTv3_0303_inst_nostuff
+950/1805 20_points_GTv3_0304_inst_nostuff
+951/1805 20_points_GTv3_0305_inst_nostuff
+952/1805 20_points_GTv3_0306_inst_nostuff
+953/1805 20_points_GTv3_0307_inst_nostuff
+954/1805 20_points_GTv3_0308_inst_nostuff
+955/1805 20_points_GTv3_0309_inst_nostuff
+956/1805 20_points_GTv3_030_inst_nostuff
+957/1805 20_points_GTv3_0310_inst_nostuff
+958/1805 20_points_GTv3_0311_inst_nostuff
+959/1805 20_points_GTv3_0312_inst_nostuff
+960/1805 20_points_GTv3_0313_inst_nostuff
+961/1805 20_points_GTv3_0314_inst_nostuff
+962/1805 20_points_GTv3_0315_inst_nostuff
+963/1805 20_points_GTv3_0316_inst_nostuff
+964/1805 20_points_GTv3_0317_inst_nostuff
+965/1805 20_points_GTv3_0318_inst_nostuff
+966/1805 20_points_GTv3_0319_inst_nostuff
+967/1805 20_points_GTv3_031_inst_nostuff
+968/1805 20_points_GTv3_0320_inst_nostuff
+969/1805 20_points_GTv3_0321_inst_nostuff
+970/1805 20_points_GTv3_0322_inst_nostuff
+971/1805 20_points_GTv3_0323_inst_nostuff
+972/1805 20_points_GTv3_0324_inst_nostuff
+973/1805 20_points_GTv3_0325_inst_nostuff
+974/1805 20_points_GTv3_0326_inst_nostuff
+975/1805 20_points_GTv3_0327_inst_nostuff
+976/1805 20_points_GTv3_0328_inst_nostuff
+977/1805 20_points_GTv3_0329_inst_nostuff
+978/1805 20_points_GTv3_032_inst_nostuff
+979/1805 20_points_GTv3_0330_inst_nostuff
+980/1805 20_points_GTv3_0331_inst_nostuff
+981/1805 20_points_GTv3_0332_inst_nostuff
+982/1805 20_points_GTv3_0333_inst_nostuff
+983/1805 20_points_GTv3_0334_inst_nostuff
+984/1805 20_points_GTv3_0335_inst_nostuff
+985/1805 20_points_GTv3_0336_inst_nostuff
+986/1805 20_points_GTv3_0337_inst_nostuff
+987/1805 20_points_GTv3_0338_inst_nostuff
+988/1805 20_points_GTv3_0339_inst_nostuff
+989/1805 20_points_GTv3_033_inst_nostuff
+990/1805 20_points_GTv3_0340_inst_nostuff
+991/1805 20_points_GTv3_0341_inst_nostuff
+992/1805 20_points_GTv3_0342_inst_nostuff
+993/1805 20_points_GTv3_0343_inst_nostuff
+994/1805 20_points_GTv3_0344_inst_nostuff
+995/1805 20_points_GTv3_0345_inst_nostuff
+996/1805 20_points_GTv3_0346_inst_nostuff
+997/1805 20_points_GTv3_0347_inst_nostuff
+998/1805 20_points_GTv3_0348_inst_nostuff
+999/1805 20_points_GTv3_0349_inst_nostuff
+1000/1805 20_points_GTv3_034_inst_nostuff
+1001/1805 20_points_GTv3_0350_inst_nostuff
+1002/1805 20_points_GTv3_0351_inst_nostuff
+1003/1805 20_points_GTv3_0352_inst_nostuff
+1004/1805 20_points_GTv3_0353_inst_nostuff
+1005/1805 20_points_GTv3_0354_inst_nostuff
+1006/1805 20_points_GTv3_0355_inst_nostuff
+1007/1805 20_points_GTv3_0356_inst_nostuff
+1008/1805 20_points_GTv3_0357_inst_nostuff
+1009/1805 20_points_GTv3_0358_inst_nostuff
+1010/1805 20_points_GTv3_0359_inst_nostuff
+1011/1805 20_points_GTv3_035_inst_nostuff
+1012/1805 20_points_GTv3_0360_inst_nostuff
+1013/1805 20_points_GTv3_036_inst_nostuff
+1014/1805 20_points_GTv3_037_inst_nostuff
+1015/1805 20_points_GTv3_038_inst_nostuff
+1016/1805 20_points_GTv3_039_inst_nostuff
+1017/1805 20_points_GTv3_03_inst_nostuff
+1018/1805 20_points_GTv3_040_inst_nostuff
+1019/1805 20_points_GTv3_041_inst_nostuff
+1020/1805 20_points_GTv3_042_inst_nostuff
+1021/1805 20_points_GTv3_043_inst_nostuff
+1022/1805 20_points_GTv3_044_inst_nostuff
+1023/1805 20_points_GTv3_045_inst_nostuff
+1024/1805 20_points_GTv3_046_inst_nostuff
+1025/1805 20_points_GTv3_047_inst_nostuff
+1026/1805 20_points_GTv3_048_inst_nostuff
+1027/1805 20_points_GTv3_049_inst_nostuff
+1028/1805 20_points_GTv3_04_inst_nostuff
+1029/1805 20_points_GTv3_050_inst_nostuff
+1030/1805 20_points_GTv3_051_inst_nostuff
+1031/1805 20_points_GTv3_052_inst_nostuff
+1032/1805 20_points_GTv3_053_inst_nostuff
+1033/1805 20_points_GTv3_054_inst_nostuff
+1034/1805 20_points_GTv3_055_inst_nostuff
+1035/1805 20_points_GTv3_056_inst_nostuff
+1036/1805 20_points_GTv3_057_inst_nostuff
+1037/1805 20_points_GTv3_058_inst_nostuff
+1038/1805 20_points_GTv3_059_inst_nostuff
+1039/1805 20_points_GTv3_05_inst_nostuff
+1040/1805 20_points_GTv3_060_inst_nostuff
+1041/1805 20_points_GTv3_061_inst_nostuff
+1042/1805 20_points_GTv3_062_inst_nostuff
+1043/1805 20_points_GTv3_063_inst_nostuff
+1044/1805 20_points_GTv3_064_inst_nostuff
+1045/1805 20_points_GTv3_065_inst_nostuff
+1046/1805 20_points_GTv3_066_inst_nostuff
+1047/1805 20_points_GTv3_067_inst_nostuff
+1048/1805 20_points_GTv3_068_inst_nostuff
+1049/1805 20_points_GTv3_069_inst_nostuff
+1050/1805 20_points_GTv3_06_inst_nostuff
+1051/1805 20_points_GTv3_070_inst_nostuff
+1052/1805 20_points_GTv3_071_inst_nostuff
+1053/1805 20_points_GTv3_072_inst_nostuff
+1054/1805 20_points_GTv3_073_inst_nostuff
+1055/1805 20_points_GTv3_074_inst_nostuff
+1056/1805 20_points_GTv3_075_inst_nostuff
+1057/1805 20_points_GTv3_076_inst_nostuff
+1058/1805 20_points_GTv3_077_inst_nostuff
+1059/1805 20_points_GTv3_078_inst_nostuff
+1060/1805 20_points_GTv3_079_inst_nostuff
+1061/1805 20_points_GTv3_07_inst_nostuff
+1062/1805 20_points_GTv3_080_inst_nostuff
+1063/1805 20_points_GTv3_081_inst_nostuff
+1064/1805 20_points_GTv3_082_inst_nostuff
+1065/1805 20_points_GTv3_083_inst_nostuff
+1066/1805 20_points_GTv3_084_inst_nostuff
+1067/1805 20_points_GTv3_085_inst_nostuff
+1068/1805 20_points_GTv3_086_inst_nostuff
+1069/1805 20_points_GTv3_087_inst_nostuff
+1070/1805 20_points_GTv3_088_inst_nostuff
+1071/1805 20_points_GTv3_089_inst_nostuff
+1072/1805 20_points_GTv3_08_inst_nostuff
+1073/1805 20_points_GTv3_090_inst_nostuff
+1074/1805 20_points_GTv3_091_inst_nostuff
+1075/1805 20_points_GTv3_092_inst_nostuff
+1076/1805 20_points_GTv3_093_inst_nostuff
+1077/1805 20_points_GTv3_094_inst_nostuff
+1078/1805 20_points_GTv3_095_inst_nostuff
+1079/1805 20_points_GTv3_096_inst_nostuff
+1080/1805 20_points_GTv3_097_inst_nostuff
+1081/1805 20_points_GTv3_098_inst_nostuff
+1082/1805 20_points_GTv3_099_inst_nostuff
+1083/1805 20_points_GTv3_09_inst_nostuff
+1084/1805 25_points_GTv3_00_inst_nostuff
+1085/1805 25_points_GTv3_0100_inst_nostuff
+1086/1805 25_points_GTv3_0101_inst_nostuff
+1087/1805 25_points_GTv3_0102_inst_nostuff
+1088/1805 25_points_GTv3_0103_inst_nostuff
+1089/1805 25_points_GTv3_0104_inst_nostuff
+1090/1805 25_points_GTv3_0105_inst_nostuff
+1091/1805 25_points_GTv3_0106_inst_nostuff
+1092/1805 25_points_GTv3_0107_inst_nostuff
+1093/1805 25_points_GTv3_0108_inst_nostuff
+1094/1805 25_points_GTv3_0109_inst_nostuff
+1095/1805 25_points_GTv3_010_inst_nostuff
+1096/1805 25_points_GTv3_0110_inst_nostuff
+1097/1805 25_points_GTv3_0111_inst_nostuff
+1098/1805 25_points_GTv3_0112_inst_nostuff
+1099/1805 25_points_GTv3_0113_inst_nostuff
+1100/1805 25_points_GTv3_0114_inst_nostuff
+1101/1805 25_points_GTv3_0115_inst_nostuff
+1102/1805 25_points_GTv3_0116_inst_nostuff
+1103/1805 25_points_GTv3_0117_inst_nostuff
+1104/1805 25_points_GTv3_0118_inst_nostuff
+1105/1805 25_points_GTv3_0119_inst_nostuff
+1106/1805 25_points_GTv3_011_inst_nostuff
+1107/1805 25_points_GTv3_0120_inst_nostuff
+1108/1805 25_points_GTv3_0121_inst_nostuff
+1109/1805 25_points_GTv3_0122_inst_nostuff
+1110/1805 25_points_GTv3_0123_inst_nostuff
+1111/1805 25_points_GTv3_0124_inst_nostuff
+1112/1805 25_points_GTv3_0125_inst_nostuff
+1113/1805 25_points_GTv3_0126_inst_nostuff
+1114/1805 25_points_GTv3_0127_inst_nostuff
+1115/1805 25_points_GTv3_0128_inst_nostuff
+1116/1805 25_points_GTv3_0129_inst_nostuff
+1117/1805 25_points_GTv3_012_inst_nostuff
+1118/1805 25_points_GTv3_0130_inst_nostuff
+1119/1805 25_points_GTv3_0131_inst_nostuff
+1120/1805 25_points_GTv3_0132_inst_nostuff
+1121/1805 25_points_GTv3_0133_inst_nostuff
+1122/1805 25_points_GTv3_0134_inst_nostuff
+1123/1805 25_points_GTv3_0135_inst_nostuff
+1124/1805 25_points_GTv3_0136_inst_nostuff
+1125/1805 25_points_GTv3_0137_inst_nostuff
+1126/1805 25_points_GTv3_0138_inst_nostuff
+1127/1805 25_points_GTv3_0139_inst_nostuff
+1128/1805 25_points_GTv3_013_inst_nostuff
+1129/1805 25_points_GTv3_0140_inst_nostuff
+1130/1805 25_points_GTv3_0141_inst_nostuff
+1131/1805 25_points_GTv3_0142_inst_nostuff
+1132/1805 25_points_GTv3_0143_inst_nostuff
+1133/1805 25_points_GTv3_0144_inst_nostuff
+1134/1805 25_points_GTv3_0145_inst_nostuff
+1135/1805 25_points_GTv3_0146_inst_nostuff
+1136/1805 25_points_GTv3_0147_inst_nostuff
+1137/1805 25_points_GTv3_0148_inst_nostuff
+1138/1805 25_points_GTv3_0149_inst_nostuff
+1139/1805 25_points_GTv3_014_inst_nostuff
+1140/1805 25_points_GTv3_0150_inst_nostuff
+1141/1805 25_points_GTv3_0151_inst_nostuff
+1142/1805 25_points_GTv3_0152_inst_nostuff
+1143/1805 25_points_GTv3_0153_inst_nostuff
+1144/1805 25_points_GTv3_0154_inst_nostuff
+1145/1805 25_points_GTv3_0155_inst_nostuff
+1146/1805 25_points_GTv3_0156_inst_nostuff
+1147/1805 25_points_GTv3_0157_inst_nostuff
+1148/1805 25_points_GTv3_0158_inst_nostuff
+1149/1805 25_points_GTv3_0159_inst_nostuff
+1150/1805 25_points_GTv3_015_inst_nostuff
+1151/1805 25_points_GTv3_0160_inst_nostuff
+1152/1805 25_points_GTv3_0161_inst_nostuff
+1153/1805 25_points_GTv3_0162_inst_nostuff
+1154/1805 25_points_GTv3_0163_inst_nostuff
+1155/1805 25_points_GTv3_0164_inst_nostuff
+1156/1805 25_points_GTv3_0165_inst_nostuff
+1157/1805 25_points_GTv3_0166_inst_nostuff
+1158/1805 25_points_GTv3_0167_inst_nostuff
+1159/1805 25_points_GTv3_0168_inst_nostuff
+1160/1805 25_points_GTv3_0169_inst_nostuff
+1161/1805 25_points_GTv3_016_inst_nostuff
+1162/1805 25_points_GTv3_0170_inst_nostuff
+1163/1805 25_points_GTv3_0171_inst_nostuff
+1164/1805 25_points_GTv3_0172_inst_nostuff
+1165/1805 25_points_GTv3_0173_inst_nostuff
+1166/1805 25_points_GTv3_0174_inst_nostuff
+1167/1805 25_points_GTv3_0175_inst_nostuff
+1168/1805 25_points_GTv3_0176_inst_nostuff
+1169/1805 25_points_GTv3_0177_inst_nostuff
+1170/1805 25_points_GTv3_0178_inst_nostuff
+1171/1805 25_points_GTv3_0179_inst_nostuff
+1172/1805 25_points_GTv3_017_inst_nostuff
+1173/1805 25_points_GTv3_0180_inst_nostuff
+1174/1805 25_points_GTv3_0181_inst_nostuff
+1175/1805 25_points_GTv3_0182_inst_nostuff
+1176/1805 25_points_GTv3_0183_inst_nostuff
+1177/1805 25_points_GTv3_0184_inst_nostuff
+1178/1805 25_points_GTv3_0185_inst_nostuff
+1179/1805 25_points_GTv3_0186_inst_nostuff
+1180/1805 25_points_GTv3_0187_inst_nostuff
+1181/1805 25_points_GTv3_0188_inst_nostuff
+1182/1805 25_points_GTv3_0189_inst_nostuff
+1183/1805 25_points_GTv3_018_inst_nostuff
+1184/1805 25_points_GTv3_0190_inst_nostuff
+1185/1805 25_points_GTv3_0191_inst_nostuff
+1186/1805 25_points_GTv3_0192_inst_nostuff
+1187/1805 25_points_GTv3_0193_inst_nostuff
+1188/1805 25_points_GTv3_0194_inst_nostuff
+1189/1805 25_points_GTv3_0195_inst_nostuff
+1190/1805 25_points_GTv3_0196_inst_nostuff
+1191/1805 25_points_GTv3_0197_inst_nostuff
+1192/1805 25_points_GTv3_0198_inst_nostuff
+1193/1805 25_points_GTv3_0199_inst_nostuff
+1194/1805 25_points_GTv3_019_inst_nostuff
+1195/1805 25_points_GTv3_01_inst_nostuff
+1196/1805 25_points_GTv3_0200_inst_nostuff
+1197/1805 25_points_GTv3_0201_inst_nostuff
+1198/1805 25_points_GTv3_0202_inst_nostuff
+1199/1805 25_points_GTv3_0203_inst_nostuff
+1200/1805 25_points_GTv3_0204_inst_nostuff
+1201/1805 25_points_GTv3_0205_inst_nostuff
+1202/1805 25_points_GTv3_0206_inst_nostuff
+1203/1805 25_points_GTv3_0207_inst_nostuff
+1204/1805 25_points_GTv3_0208_inst_nostuff
+1205/1805 25_points_GTv3_0209_inst_nostuff
+1206/1805 25_points_GTv3_020_inst_nostuff
+1207/1805 25_points_GTv3_0210_inst_nostuff
+1208/1805 25_points_GTv3_0211_inst_nostuff
+1209/1805 25_points_GTv3_0212_inst_nostuff
+1210/1805 25_points_GTv3_0213_inst_nostuff
+1211/1805 25_points_GTv3_0214_inst_nostuff
+1212/1805 25_points_GTv3_0215_inst_nostuff
+1213/1805 25_points_GTv3_0216_inst_nostuff
+1214/1805 25_points_GTv3_0217_inst_nostuff
+1215/1805 25_points_GTv3_0218_inst_nostuff
+1216/1805 25_points_GTv3_0219_inst_nostuff
+1217/1805 25_points_GTv3_021_inst_nostuff
+1218/1805 25_points_GTv3_0220_inst_nostuff
+1219/1805 25_points_GTv3_0221_inst_nostuff
+1220/1805 25_points_GTv3_0222_inst_nostuff
+1221/1805 25_points_GTv3_0223_inst_nostuff
+1222/1805 25_points_GTv3_0224_inst_nostuff
+1223/1805 25_points_GTv3_0225_inst_nostuff
+1224/1805 25_points_GTv3_0226_inst_nostuff
+1225/1805 25_points_GTv3_0227_inst_nostuff
+1226/1805 25_points_GTv3_0228_inst_nostuff
+1227/1805 25_points_GTv3_0229_inst_nostuff
+1228/1805 25_points_GTv3_022_inst_nostuff
+1229/1805 25_points_GTv3_0230_inst_nostuff
+1230/1805 25_points_GTv3_0231_inst_nostuff
+1231/1805 25_points_GTv3_0232_inst_nostuff
+1232/1805 25_points_GTv3_0233_inst_nostuff
+1233/1805 25_points_GTv3_0234_inst_nostuff
+1234/1805 25_points_GTv3_0235_inst_nostuff
+1235/1805 25_points_GTv3_0236_inst_nostuff
+1236/1805 25_points_GTv3_0237_inst_nostuff
+1237/1805 25_points_GTv3_0238_inst_nostuff
+1238/1805 25_points_GTv3_0239_inst_nostuff
+1239/1805 25_points_GTv3_023_inst_nostuff
+1240/1805 25_points_GTv3_0240_inst_nostuff
+1241/1805 25_points_GTv3_0241_inst_nostuff
+1242/1805 25_points_GTv3_0242_inst_nostuff
+1243/1805 25_points_GTv3_0243_inst_nostuff
+1244/1805 25_points_GTv3_0244_inst_nostuff
+1245/1805 25_points_GTv3_0245_inst_nostuff
+1246/1805 25_points_GTv3_0246_inst_nostuff
+1247/1805 25_points_GTv3_0247_inst_nostuff
+1248/1805 25_points_GTv3_0248_inst_nostuff
+1249/1805 25_points_GTv3_0249_inst_nostuff
+1250/1805 25_points_GTv3_024_inst_nostuff
+1251/1805 25_points_GTv3_0250_inst_nostuff
+1252/1805 25_points_GTv3_0251_inst_nostuff
+1253/1805 25_points_GTv3_0252_inst_nostuff
+1254/1805 25_points_GTv3_0253_inst_nostuff
+1255/1805 25_points_GTv3_0254_inst_nostuff
+1256/1805 25_points_GTv3_0255_inst_nostuff
+1257/1805 25_points_GTv3_0256_inst_nostuff
+1258/1805 25_points_GTv3_0257_inst_nostuff
+1259/1805 25_points_GTv3_0258_inst_nostuff
+1260/1805 25_points_GTv3_0259_inst_nostuff
+1261/1805 25_points_GTv3_025_inst_nostuff
+1262/1805 25_points_GTv3_0260_inst_nostuff
+1263/1805 25_points_GTv3_0261_inst_nostuff
+1264/1805 25_points_GTv3_0262_inst_nostuff
+1265/1805 25_points_GTv3_0263_inst_nostuff
+1266/1805 25_points_GTv3_0264_inst_nostuff
+1267/1805 25_points_GTv3_0265_inst_nostuff
+1268/1805 25_points_GTv3_0266_inst_nostuff
+1269/1805 25_points_GTv3_0267_inst_nostuff
+1270/1805 25_points_GTv3_0268_inst_nostuff
+1271/1805 25_points_GTv3_0269_inst_nostuff
+1272/1805 25_points_GTv3_026_inst_nostuff
+1273/1805 25_points_GTv3_0270_inst_nostuff
+1274/1805 25_points_GTv3_0271_inst_nostuff
+1275/1805 25_points_GTv3_0272_inst_nostuff
+1276/1805 25_points_GTv3_0273_inst_nostuff
+1277/1805 25_points_GTv3_0274_inst_nostuff
+1278/1805 25_points_GTv3_0275_inst_nostuff
+1279/1805 25_points_GTv3_0276_inst_nostuff
+1280/1805 25_points_GTv3_0277_inst_nostuff
+1281/1805 25_points_GTv3_0278_inst_nostuff
+1282/1805 25_points_GTv3_0279_inst_nostuff
+1283/1805 25_points_GTv3_027_inst_nostuff
+1284/1805 25_points_GTv3_0280_inst_nostuff
+1285/1805 25_points_GTv3_0281_inst_nostuff
+1286/1805 25_points_GTv3_0282_inst_nostuff
+1287/1805 25_points_GTv3_0283_inst_nostuff
+1288/1805 25_points_GTv3_0284_inst_nostuff
+1289/1805 25_points_GTv3_0285_inst_nostuff
+1290/1805 25_points_GTv3_0286_inst_nostuff
+1291/1805 25_points_GTv3_0287_inst_nostuff
+1292/1805 25_points_GTv3_0288_inst_nostuff
+1293/1805 25_points_GTv3_0289_inst_nostuff
+1294/1805 25_points_GTv3_028_inst_nostuff
+1295/1805 25_points_GTv3_0290_inst_nostuff
+1296/1805 25_points_GTv3_0291_inst_nostuff
+1297/1805 25_points_GTv3_0292_inst_nostuff
+1298/1805 25_points_GTv3_0293_inst_nostuff
+1299/1805 25_points_GTv3_0294_inst_nostuff
+1300/1805 25_points_GTv3_0295_inst_nostuff
+1301/1805 25_points_GTv3_0296_inst_nostuff
+1302/1805 25_points_GTv3_0297_inst_nostuff
+1303/1805 25_points_GTv3_0298_inst_nostuff
+1304/1805 25_points_GTv3_0299_inst_nostuff
+1305/1805 25_points_GTv3_029_inst_nostuff
+1306/1805 25_points_GTv3_02_inst_nostuff
+1307/1805 25_points_GTv3_0300_inst_nostuff
+1308/1805 25_points_GTv3_0301_inst_nostuff
+1309/1805 25_points_GTv3_0302_inst_nostuff
+1310/1805 25_points_GTv3_0303_inst_nostuff
+1311/1805 25_points_GTv3_0304_inst_nostuff
+1312/1805 25_points_GTv3_0305_inst_nostuff
+1313/1805 25_points_GTv3_0306_inst_nostuff
+1314/1805 25_points_GTv3_0307_inst_nostuff
+1315/1805 25_points_GTv3_0308_inst_nostuff
+1316/1805 25_points_GTv3_0309_inst_nostuff
+1317/1805 25_points_GTv3_030_inst_nostuff
+1318/1805 25_points_GTv3_0310_inst_nostuff
+1319/1805 25_points_GTv3_0311_inst_nostuff
+1320/1805 25_points_GTv3_0312_inst_nostuff
+1321/1805 25_points_GTv3_0313_inst_nostuff
+1322/1805 25_points_GTv3_0314_inst_nostuff
+1323/1805 25_points_GTv3_0315_inst_nostuff
+1324/1805 25_points_GTv3_0316_inst_nostuff
+1325/1805 25_points_GTv3_0317_inst_nostuff
+1326/1805 25_points_GTv3_0318_inst_nostuff
+1327/1805 25_points_GTv3_0319_inst_nostuff
+1328/1805 25_points_GTv3_031_inst_nostuff
+1329/1805 25_points_GTv3_0320_inst_nostuff
+1330/1805 25_points_GTv3_0321_inst_nostuff
+1331/1805 25_points_GTv3_0322_inst_nostuff
+1332/1805 25_points_GTv3_0323_inst_nostuff
+1333/1805 25_points_GTv3_0324_inst_nostuff
+1334/1805 25_points_GTv3_0325_inst_nostuff
+1335/1805 25_points_GTv3_0326_inst_nostuff
+1336/1805 25_points_GTv3_0327_inst_nostuff
+1337/1805 25_points_GTv3_0328_inst_nostuff
+1338/1805 25_points_GTv3_0329_inst_nostuff
+1339/1805 25_points_GTv3_032_inst_nostuff
+1340/1805 25_points_GTv3_0330_inst_nostuff
+1341/1805 25_points_GTv3_0331_inst_nostuff
+1342/1805 25_points_GTv3_0332_inst_nostuff
+1343/1805 25_points_GTv3_0333_inst_nostuff
+1344/1805 25_points_GTv3_0334_inst_nostuff
+1345/1805 25_points_GTv3_0335_inst_nostuff
+1346/1805 25_points_GTv3_0336_inst_nostuff
+1347/1805 25_points_GTv3_0337_inst_nostuff
+1348/1805 25_points_GTv3_0338_inst_nostuff
+1349/1805 25_points_GTv3_0339_inst_nostuff
+1350/1805 25_points_GTv3_033_inst_nostuff
+1351/1805 25_points_GTv3_0340_inst_nostuff
+1352/1805 25_points_GTv3_0341_inst_nostuff
+1353/1805 25_points_GTv3_0342_inst_nostuff
+1354/1805 25_points_GTv3_0343_inst_nostuff
+1355/1805 25_points_GTv3_0344_inst_nostuff
+1356/1805 25_points_GTv3_0345_inst_nostuff
+1357/1805 25_points_GTv3_0346_inst_nostuff
+1358/1805 25_points_GTv3_0347_inst_nostuff
+1359/1805 25_points_GTv3_0348_inst_nostuff
+1360/1805 25_points_GTv3_0349_inst_nostuff
+1361/1805 25_points_GTv3_034_inst_nostuff
+1362/1805 25_points_GTv3_0350_inst_nostuff
+1363/1805 25_points_GTv3_0351_inst_nostuff
+1364/1805 25_points_GTv3_0352_inst_nostuff
+1365/1805 25_points_GTv3_0353_inst_nostuff
+1366/1805 25_points_GTv3_0354_inst_nostuff
+1367/1805 25_points_GTv3_0355_inst_nostuff
+1368/1805 25_points_GTv3_0356_inst_nostuff
+1369/1805 25_points_GTv3_0357_inst_nostuff
+1370/1805 25_points_GTv3_0358_inst_nostuff
+1371/1805 25_points_GTv3_0359_inst_nostuff
+1372/1805 25_points_GTv3_035_inst_nostuff
+1373/1805 25_points_GTv3_0360_inst_nostuff
+1374/1805 25_points_GTv3_036_inst_nostuff
+1375/1805 25_points_GTv3_037_inst_nostuff
+1376/1805 25_points_GTv3_038_inst_nostuff
+1377/1805 25_points_GTv3_039_inst_nostuff
+1378/1805 25_points_GTv3_03_inst_nostuff
+1379/1805 25_points_GTv3_040_inst_nostuff
+1380/1805 25_points_GTv3_041_inst_nostuff
+1381/1805 25_points_GTv3_042_inst_nostuff
+1382/1805 25_points_GTv3_043_inst_nostuff
+1383/1805 25_points_GTv3_044_inst_nostuff
+1384/1805 25_points_GTv3_045_inst_nostuff
+1385/1805 25_points_GTv3_046_inst_nostuff
+1386/1805 25_points_GTv3_047_inst_nostuff
+1387/1805 25_points_GTv3_048_inst_nostuff
+1388/1805 25_points_GTv3_049_inst_nostuff
+1389/1805 25_points_GTv3_04_inst_nostuff
+1390/1805 25_points_GTv3_050_inst_nostuff
+1391/1805 25_points_GTv3_051_inst_nostuff
+1392/1805 25_points_GTv3_052_inst_nostuff
+1393/1805 25_points_GTv3_053_inst_nostuff
+1394/1805 25_points_GTv3_054_inst_nostuff
+1395/1805 25_points_GTv3_055_inst_nostuff
+1396/1805 25_points_GTv3_056_inst_nostuff
+1397/1805 25_points_GTv3_057_inst_nostuff
+1398/1805 25_points_GTv3_058_inst_nostuff
+1399/1805 25_points_GTv3_059_inst_nostuff
+1400/1805 25_points_GTv3_05_inst_nostuff
+1401/1805 25_points_GTv3_060_inst_nostuff
+1402/1805 25_points_GTv3_061_inst_nostuff
+1403/1805 25_points_GTv3_062_inst_nostuff
+1404/1805 25_points_GTv3_063_inst_nostuff
+1405/1805 25_points_GTv3_064_inst_nostuff
+1406/1805 25_points_GTv3_065_inst_nostuff
+1407/1805 25_points_GTv3_066_inst_nostuff
+1408/1805 25_points_GTv3_067_inst_nostuff
+1409/1805 25_points_GTv3_068_inst_nostuff
+1410/1805 25_points_GTv3_069_inst_nostuff
+1411/1805 25_points_GTv3_06_inst_nostuff
+1412/1805 25_points_GTv3_070_inst_nostuff
+1413/1805 25_points_GTv3_071_inst_nostuff
+1414/1805 25_points_GTv3_072_inst_nostuff
+1415/1805 25_points_GTv3_073_inst_nostuff
+1416/1805 25_points_GTv3_074_inst_nostuff
+1417/1805 25_points_GTv3_075_inst_nostuff
+1418/1805 25_points_GTv3_076_inst_nostuff
+1419/1805 25_points_GTv3_077_inst_nostuff
+1420/1805 25_points_GTv3_078_inst_nostuff
+1421/1805 25_points_GTv3_079_inst_nostuff
+1422/1805 25_points_GTv3_07_inst_nostuff
+1423/1805 25_points_GTv3_080_inst_nostuff
+1424/1805 25_points_GTv3_081_inst_nostuff
+1425/1805 25_points_GTv3_082_inst_nostuff
+1426/1805 25_points_GTv3_083_inst_nostuff
+1427/1805 25_points_GTv3_084_inst_nostuff
+1428/1805 25_points_GTv3_085_inst_nostuff
+1429/1805 25_points_GTv3_086_inst_nostuff
+1430/1805 25_points_GTv3_087_inst_nostuff
+1431/1805 25_points_GTv3_088_inst_nostuff
+1432/1805 25_points_GTv3_089_inst_nostuff
+1433/1805 25_points_GTv3_08_inst_nostuff
+1434/1805 25_points_GTv3_090_inst_nostuff
+1435/1805 25_points_GTv3_091_inst_nostuff
+1436/1805 25_points_GTv3_092_inst_nostuff
+1437/1805 25_points_GTv3_093_inst_nostuff
+1438/1805 25_points_GTv3_094_inst_nostuff
+1439/1805 25_points_GTv3_095_inst_nostuff
+1440/1805 25_points_GTv3_096_inst_nostuff
+1441/1805 25_points_GTv3_097_inst_nostuff
+1442/1805 25_points_GTv3_098_inst_nostuff
+1443/1805 25_points_GTv3_099_inst_nostuff
+1444/1805 25_points_GTv3_09_inst_nostuff
+1445/1805 5_points_GTv3_00_inst_nostuff
+1446/1805 5_points_GTv3_0100_inst_nostuff
+1447/1805 5_points_GTv3_0101_inst_nostuff
+1448/1805 5_points_GTv3_0102_inst_nostuff
+1449/1805 5_points_GTv3_0103_inst_nostuff
+1450/1805 5_points_GTv3_0104_inst_nostuff
+1451/1805 5_points_GTv3_0105_inst_nostuff
+1452/1805 5_points_GTv3_0106_inst_nostuff
+1453/1805 5_points_GTv3_0107_inst_nostuff
+1454/1805 5_points_GTv3_0108_inst_nostuff
+1455/1805 5_points_GTv3_0109_inst_nostuff
+1456/1805 5_points_GTv3_010_inst_nostuff
+1457/1805 5_points_GTv3_0110_inst_nostuff
+1458/1805 5_points_GTv3_0111_inst_nostuff
+1459/1805 5_points_GTv3_0112_inst_nostuff
+1460/1805 5_points_GTv3_0113_inst_nostuff
+1461/1805 5_points_GTv3_0114_inst_nostuff
+1462/1805 5_points_GTv3_0115_inst_nostuff
+1463/1805 5_points_GTv3_0116_inst_nostuff
+1464/1805 5_points_GTv3_0117_inst_nostuff
+1465/1805 5_points_GTv3_0118_inst_nostuff
+1466/1805 5_points_GTv3_0119_inst_nostuff
+1467/1805 5_points_GTv3_011_inst_nostuff
+1468/1805 5_points_GTv3_0120_inst_nostuff
+1469/1805 5_points_GTv3_0121_inst_nostuff
+1470/1805 5_points_GTv3_0122_inst_nostuff
+1471/1805 5_points_GTv3_0123_inst_nostuff
+1472/1805 5_points_GTv3_0124_inst_nostuff
+1473/1805 5_points_GTv3_0125_inst_nostuff
+1474/1805 5_points_GTv3_0126_inst_nostuff
+1475/1805 5_points_GTv3_0127_inst_nostuff
+1476/1805 5_points_GTv3_0128_inst_nostuff
+1477/1805 5_points_GTv3_0129_inst_nostuff
+1478/1805 5_points_GTv3_012_inst_nostuff
+1479/1805 5_points_GTv3_0130_inst_nostuff
+1480/1805 5_points_GTv3_0131_inst_nostuff
+1481/1805 5_points_GTv3_0132_inst_nostuff
+1482/1805 5_points_GTv3_0133_inst_nostuff
+1483/1805 5_points_GTv3_0134_inst_nostuff
+1484/1805 5_points_GTv3_0135_inst_nostuff
+1485/1805 5_points_GTv3_0136_inst_nostuff
+1486/1805 5_points_GTv3_0137_inst_nostuff
+1487/1805 5_points_GTv3_0138_inst_nostuff
+1488/1805 5_points_GTv3_0139_inst_nostuff
+1489/1805 5_points_GTv3_013_inst_nostuff
+1490/1805 5_points_GTv3_0140_inst_nostuff
+1491/1805 5_points_GTv3_0141_inst_nostuff
+1492/1805 5_points_GTv3_0142_inst_nostuff
+1493/1805 5_points_GTv3_0143_inst_nostuff
+1494/1805 5_points_GTv3_0144_inst_nostuff
+1495/1805 5_points_GTv3_0145_inst_nostuff
+1496/1805 5_points_GTv3_0146_inst_nostuff
+1497/1805 5_points_GTv3_0147_inst_nostuff
+1498/1805 5_points_GTv3_0148_inst_nostuff
+1499/1805 5_points_GTv3_0149_inst_nostuff
+1500/1805 5_points_GTv3_014_inst_nostuff
+1501/1805 5_points_GTv3_0150_inst_nostuff
+1502/1805 5_points_GTv3_0151_inst_nostuff
+1503/1805 5_points_GTv3_0152_inst_nostuff
+1504/1805 5_points_GTv3_0153_inst_nostuff
+1505/1805 5_points_GTv3_0154_inst_nostuff
+1506/1805 5_points_GTv3_0155_inst_nostuff
+1507/1805 5_points_GTv3_0156_inst_nostuff
+1508/1805 5_points_GTv3_0157_inst_nostuff
+1509/1805 5_points_GTv3_0158_inst_nostuff
+1510/1805 5_points_GTv3_0159_inst_nostuff
+1511/1805 5_points_GTv3_015_inst_nostuff
+1512/1805 5_points_GTv3_0160_inst_nostuff
+1513/1805 5_points_GTv3_0161_inst_nostuff
+1514/1805 5_points_GTv3_0162_inst_nostuff
+1515/1805 5_points_GTv3_0163_inst_nostuff
+1516/1805 5_points_GTv3_0164_inst_nostuff
+1517/1805 5_points_GTv3_0165_inst_nostuff
+1518/1805 5_points_GTv3_0166_inst_nostuff
+1519/1805 5_points_GTv3_0167_inst_nostuff
+1520/1805 5_points_GTv3_0168_inst_nostuff
+1521/1805 5_points_GTv3_0169_inst_nostuff
+1522/1805 5_points_GTv3_016_inst_nostuff
+1523/1805 5_points_GTv3_0170_inst_nostuff
+1524/1805 5_points_GTv3_0171_inst_nostuff
+1525/1805 5_points_GTv3_0172_inst_nostuff
+1526/1805 5_points_GTv3_0173_inst_nostuff
+1527/1805 5_points_GTv3_0174_inst_nostuff
+1528/1805 5_points_GTv3_0175_inst_nostuff
+1529/1805 5_points_GTv3_0176_inst_nostuff
+1530/1805 5_points_GTv3_0177_inst_nostuff
+1531/1805 5_points_GTv3_0178_inst_nostuff
+1532/1805 5_points_GTv3_0179_inst_nostuff
+1533/1805 5_points_GTv3_017_inst_nostuff
+1534/1805 5_points_GTv3_0180_inst_nostuff
+1535/1805 5_points_GTv3_0181_inst_nostuff
+1536/1805 5_points_GTv3_0182_inst_nostuff
+1537/1805 5_points_GTv3_0183_inst_nostuff
+1538/1805 5_points_GTv3_0184_inst_nostuff
+1539/1805 5_points_GTv3_0185_inst_nostuff
+1540/1805 5_points_GTv3_0186_inst_nostuff
+1541/1805 5_points_GTv3_0187_inst_nostuff
+1542/1805 5_points_GTv3_0188_inst_nostuff
+1543/1805 5_points_GTv3_0189_inst_nostuff
+1544/1805 5_points_GTv3_018_inst_nostuff
+1545/1805 5_points_GTv3_0190_inst_nostuff
+1546/1805 5_points_GTv3_0191_inst_nostuff
+1547/1805 5_points_GTv3_0192_inst_nostuff
+1548/1805 5_points_GTv3_0193_inst_nostuff
+1549/1805 5_points_GTv3_0194_inst_nostuff
+1550/1805 5_points_GTv3_0195_inst_nostuff
+1551/1805 5_points_GTv3_0196_inst_nostuff
+1552/1805 5_points_GTv3_0197_inst_nostuff
+1553/1805 5_points_GTv3_0198_inst_nostuff
+1554/1805 5_points_GTv3_0199_inst_nostuff
+1555/1805 5_points_GTv3_019_inst_nostuff
+1556/1805 5_points_GTv3_01_inst_nostuff
+1557/1805 5_points_GTv3_0200_inst_nostuff
+1558/1805 5_points_GTv3_0201_inst_nostuff
+1559/1805 5_points_GTv3_0202_inst_nostuff
+1560/1805 5_points_GTv3_0203_inst_nostuff
+1561/1805 5_points_GTv3_0204_inst_nostuff
+1562/1805 5_points_GTv3_0205_inst_nostuff
+1563/1805 5_points_GTv3_0206_inst_nostuff
+1564/1805 5_points_GTv3_0207_inst_nostuff
+1565/1805 5_points_GTv3_0208_inst_nostuff
+1566/1805 5_points_GTv3_0209_inst_nostuff
+1567/1805 5_points_GTv3_020_inst_nostuff
+1568/1805 5_points_GTv3_0210_inst_nostuff
+1569/1805 5_points_GTv3_0211_inst_nostuff
+1570/1805 5_points_GTv3_0212_inst_nostuff
+1571/1805 5_points_GTv3_0213_inst_nostuff
+1572/1805 5_points_GTv3_0214_inst_nostuff
+1573/1805 5_points_GTv3_0215_inst_nostuff
+1574/1805 5_points_GTv3_0216_inst_nostuff
+1575/1805 5_points_GTv3_0217_inst_nostuff
+1576/1805 5_points_GTv3_0218_inst_nostuff
+1577/1805 5_points_GTv3_0219_inst_nostuff
+1578/1805 5_points_GTv3_021_inst_nostuff
+1579/1805 5_points_GTv3_0220_inst_nostuff
+1580/1805 5_points_GTv3_0221_inst_nostuff
+1581/1805 5_points_GTv3_0222_inst_nostuff
+1582/1805 5_points_GTv3_0223_inst_nostuff
+1583/1805 5_points_GTv3_0224_inst_nostuff
+1584/1805 5_points_GTv3_0225_inst_nostuff
+1585/1805 5_points_GTv3_0226_inst_nostuff
+1586/1805 5_points_GTv3_0227_inst_nostuff
+1587/1805 5_points_GTv3_0228_inst_nostuff
+1588/1805 5_points_GTv3_0229_inst_nostuff
+1589/1805 5_points_GTv3_022_inst_nostuff
+1590/1805 5_points_GTv3_0230_inst_nostuff
+1591/1805 5_points_GTv3_0231_inst_nostuff
+1592/1805 5_points_GTv3_0232_inst_nostuff
+1593/1805 5_points_GTv3_0233_inst_nostuff
+1594/1805 5_points_GTv3_0234_inst_nostuff
+1595/1805 5_points_GTv3_0235_inst_nostuff
+1596/1805 5_points_GTv3_0236_inst_nostuff
+1597/1805 5_points_GTv3_0237_inst_nostuff
+1598/1805 5_points_GTv3_0238_inst_nostuff
+1599/1805 5_points_GTv3_0239_inst_nostuff
+1600/1805 5_points_GTv3_023_inst_nostuff
+1601/1805 5_points_GTv3_0240_inst_nostuff
+1602/1805 5_points_GTv3_0241_inst_nostuff
+1603/1805 5_points_GTv3_0242_inst_nostuff
+1604/1805 5_points_GTv3_0243_inst_nostuff
+1605/1805 5_points_GTv3_0244_inst_nostuff
+1606/1805 5_points_GTv3_0245_inst_nostuff
+1607/1805 5_points_GTv3_0246_inst_nostuff
+1608/1805 5_points_GTv3_0247_inst_nostuff
+1609/1805 5_points_GTv3_0248_inst_nostuff
+1610/1805 5_points_GTv3_0249_inst_nostuff
+1611/1805 5_points_GTv3_024_inst_nostuff
+1612/1805 5_points_GTv3_0250_inst_nostuff
+1613/1805 5_points_GTv3_0251_inst_nostuff
+1614/1805 5_points_GTv3_0252_inst_nostuff
+1615/1805 5_points_GTv3_0253_inst_nostuff
+1616/1805 5_points_GTv3_0254_inst_nostuff
+1617/1805 5_points_GTv3_0255_inst_nostuff
+1618/1805 5_points_GTv3_0256_inst_nostuff
+1619/1805 5_points_GTv3_0257_inst_nostuff
+1620/1805 5_points_GTv3_0258_inst_nostuff
+1621/1805 5_points_GTv3_0259_inst_nostuff
+1622/1805 5_points_GTv3_025_inst_nostuff
+1623/1805 5_points_GTv3_0260_inst_nostuff
+1624/1805 5_points_GTv3_0261_inst_nostuff
+1625/1805 5_points_GTv3_0262_inst_nostuff
+1626/1805 5_points_GTv3_0263_inst_nostuff
+1627/1805 5_points_GTv3_0264_inst_nostuff
+1628/1805 5_points_GTv3_0265_inst_nostuff
+1629/1805 5_points_GTv3_0266_inst_nostuff
+1630/1805 5_points_GTv3_0267_inst_nostuff
+1631/1805 5_points_GTv3_0268_inst_nostuff
+1632/1805 5_points_GTv3_0269_inst_nostuff
+1633/1805 5_points_GTv3_026_inst_nostuff
+1634/1805 5_points_GTv3_0270_inst_nostuff
+1635/1805 5_points_GTv3_0271_inst_nostuff
+1636/1805 5_points_GTv3_0272_inst_nostuff
+1637/1805 5_points_GTv3_0273_inst_nostuff
+1638/1805 5_points_GTv3_0274_inst_nostuff
+1639/1805 5_points_GTv3_0275_inst_nostuff
+1640/1805 5_points_GTv3_0276_inst_nostuff
+1641/1805 5_points_GTv3_0277_inst_nostuff
+1642/1805 5_points_GTv3_0278_inst_nostuff
+1643/1805 5_points_GTv3_0279_inst_nostuff
+1644/1805 5_points_GTv3_027_inst_nostuff
+1645/1805 5_points_GTv3_0280_inst_nostuff
+1646/1805 5_points_GTv3_0281_inst_nostuff
+1647/1805 5_points_GTv3_0282_inst_nostuff
+1648/1805 5_points_GTv3_0283_inst_nostuff
+1649/1805 5_points_GTv3_0284_inst_nostuff
+1650/1805 5_points_GTv3_0285_inst_nostuff
+1651/1805 5_points_GTv3_0286_inst_nostuff
+1652/1805 5_points_GTv3_0287_inst_nostuff
+1653/1805 5_points_GTv3_0288_inst_nostuff
+1654/1805 5_points_GTv3_0289_inst_nostuff
+1655/1805 5_points_GTv3_028_inst_nostuff
+1656/1805 5_points_GTv3_0290_inst_nostuff
+1657/1805 5_points_GTv3_0291_inst_nostuff
+1658/1805 5_points_GTv3_0292_inst_nostuff
+1659/1805 5_points_GTv3_0293_inst_nostuff
+1660/1805 5_points_GTv3_0294_inst_nostuff
+1661/1805 5_points_GTv3_0295_inst_nostuff
+1662/1805 5_points_GTv3_0296_inst_nostuff
+1663/1805 5_points_GTv3_0297_inst_nostuff
+1664/1805 5_points_GTv3_0298_inst_nostuff
+1665/1805 5_points_GTv3_0299_inst_nostuff
+1666/1805 5_points_GTv3_029_inst_nostuff
+1667/1805 5_points_GTv3_02_inst_nostuff
+1668/1805 5_points_GTv3_0300_inst_nostuff
+1669/1805 5_points_GTv3_0301_inst_nostuff
+1670/1805 5_points_GTv3_0302_inst_nostuff
+1671/1805 5_points_GTv3_0303_inst_nostuff
+1672/1805 5_points_GTv3_0304_inst_nostuff
+1673/1805 5_points_GTv3_0305_inst_nostuff
+1674/1805 5_points_GTv3_0306_inst_nostuff
+1675/1805 5_points_GTv3_0307_inst_nostuff
+1676/1805 5_points_GTv3_0308_inst_nostuff
+1677/1805 5_points_GTv3_0309_inst_nostuff
+1678/1805 5_points_GTv3_030_inst_nostuff
+1679/1805 5_points_GTv3_0310_inst_nostuff
+1680/1805 5_points_GTv3_0311_inst_nostuff
+1681/1805 5_points_GTv3_0312_inst_nostuff
+1682/1805 5_points_GTv3_0313_inst_nostuff
+1683/1805 5_points_GTv3_0314_inst_nostuff
+1684/1805 5_points_GTv3_0315_inst_nostuff
+1685/1805 5_points_GTv3_0316_inst_nostuff
+1686/1805 5_points_GTv3_0317_inst_nostuff
+1687/1805 5_points_GTv3_0318_inst_nostuff
+1688/1805 5_points_GTv3_0319_inst_nostuff
+1689/1805 5_points_GTv3_031_inst_nostuff
+1690/1805 5_points_GTv3_0320_inst_nostuff
+1691/1805 5_points_GTv3_0321_inst_nostuff
+1692/1805 5_points_GTv3_0322_inst_nostuff
+1693/1805 5_points_GTv3_0323_inst_nostuff
+1694/1805 5_points_GTv3_0324_inst_nostuff
+1695/1805 5_points_GTv3_0325_inst_nostuff
+1696/1805 5_points_GTv3_0326_inst_nostuff
+1697/1805 5_points_GTv3_0327_inst_nostuff
+1698/1805 5_points_GTv3_0328_inst_nostuff
+1699/1805 5_points_GTv3_0329_inst_nostuff
+1700/1805 5_points_GTv3_032_inst_nostuff
+1701/1805 5_points_GTv3_0330_inst_nostuff
+1702/1805 5_points_GTv3_0331_inst_nostuff
+1703/1805 5_points_GTv3_0332_inst_nostuff
+1704/1805 5_points_GTv3_0333_inst_nostuff
+1705/1805 5_points_GTv3_0334_inst_nostuff
+1706/1805 5_points_GTv3_0335_inst_nostuff
+1707/1805 5_points_GTv3_0336_inst_nostuff
+1708/1805 5_points_GTv3_0337_inst_nostuff
+1709/1805 5_points_GTv3_0338_inst_nostuff
+1710/1805 5_points_GTv3_0339_inst_nostuff
+1711/1805 5_points_GTv3_033_inst_nostuff
+1712/1805 5_points_GTv3_0340_inst_nostuff
+1713/1805 5_points_GTv3_0341_inst_nostuff
+1714/1805 5_points_GTv3_0342_inst_nostuff
+1715/1805 5_points_GTv3_0343_inst_nostuff
+1716/1805 5_points_GTv3_0344_inst_nostuff
+1717/1805 5_points_GTv3_0345_inst_nostuff
+1718/1805 5_points_GTv3_0346_inst_nostuff
+1719/1805 5_points_GTv3_0347_inst_nostuff
+1720/1805 5_points_GTv3_0348_inst_nostuff
+1721/1805 5_points_GTv3_0349_inst_nostuff
+1722/1805 5_points_GTv3_034_inst_nostuff
+1723/1805 5_points_GTv3_0350_inst_nostuff
+1724/1805 5_points_GTv3_0351_inst_nostuff
+1725/1805 5_points_GTv3_0352_inst_nostuff
+1726/1805 5_points_GTv3_0353_inst_nostuff
+1727/1805 5_points_GTv3_0354_inst_nostuff
+1728/1805 5_points_GTv3_0355_inst_nostuff
+1729/1805 5_points_GTv3_0356_inst_nostuff
+1730/1805 5_points_GTv3_0357_inst_nostuff
+1731/1805 5_points_GTv3_0358_inst_nostuff
+1732/1805 5_points_GTv3_0359_inst_nostuff
+1733/1805 5_points_GTv3_035_inst_nostuff
+1734/1805 5_points_GTv3_0360_inst_nostuff
+1735/1805 5_points_GTv3_036_inst_nostuff
+1736/1805 5_points_GTv3_037_inst_nostuff
+1737/1805 5_points_GTv3_038_inst_nostuff
+1738/1805 5_points_GTv3_039_inst_nostuff
+1739/1805 5_points_GTv3_03_inst_nostuff
+1740/1805 5_points_GTv3_040_inst_nostuff
+1741/1805 5_points_GTv3_041_inst_nostuff
+1742/1805 5_points_GTv3_042_inst_nostuff
+1743/1805 5_points_GTv3_043_inst_nostuff
+1744/1805 5_points_GTv3_044_inst_nostuff
+1745/1805 5_points_GTv3_045_inst_nostuff
+1746/1805 5_points_GTv3_046_inst_nostuff
+1747/1805 5_points_GTv3_047_inst_nostuff
+1748/1805 5_points_GTv3_048_inst_nostuff
+1749/1805 5_points_GTv3_049_inst_nostuff
+1750/1805 5_points_GTv3_04_inst_nostuff
+1751/1805 5_points_GTv3_050_inst_nostuff
+1752/1805 5_points_GTv3_051_inst_nostuff
+1753/1805 5_points_GTv3_052_inst_nostuff
+1754/1805 5_points_GTv3_053_inst_nostuff
+1755/1805 5_points_GTv3_054_inst_nostuff
+1756/1805 5_points_GTv3_055_inst_nostuff
+1757/1805 5_points_GTv3_056_inst_nostuff
+1758/1805 5_points_GTv3_057_inst_nostuff
+1759/1805 5_points_GTv3_058_inst_nostuff
+1760/1805 5_points_GTv3_059_inst_nostuff
+1761/1805 5_points_GTv3_05_inst_nostuff
+1762/1805 5_points_GTv3_060_inst_nostuff
+1763/1805 5_points_GTv3_061_inst_nostuff
+1764/1805 5_points_GTv3_062_inst_nostuff
+1765/1805 5_points_GTv3_063_inst_nostuff
+1766/1805 5_points_GTv3_064_inst_nostuff
+1767/1805 5_points_GTv3_065_inst_nostuff
+1768/1805 5_points_GTv3_066_inst_nostuff
+1769/1805 5_points_GTv3_067_inst_nostuff
+1770/1805 5_points_GTv3_068_inst_nostuff
+1771/1805 5_points_GTv3_069_inst_nostuff
+1772/1805 5_points_GTv3_06_inst_nostuff
+1773/1805 5_points_GTv3_070_inst_nostuff
+1774/1805 5_points_GTv3_071_inst_nostuff
+1775/1805 5_points_GTv3_072_inst_nostuff
+1776/1805 5_points_GTv3_073_inst_nostuff
+1777/1805 5_points_GTv3_074_inst_nostuff
+1778/1805 5_points_GTv3_075_inst_nostuff
+1779/1805 5_points_GTv3_076_inst_nostuff
+1780/1805 5_points_GTv3_077_inst_nostuff
+1781/1805 5_points_GTv3_078_inst_nostuff
+1782/1805 5_points_GTv3_079_inst_nostuff
+1783/1805 5_points_GTv3_07_inst_nostuff
+1784/1805 5_points_GTv3_080_inst_nostuff
+1785/1805 5_points_GTv3_081_inst_nostuff
+1786/1805 5_points_GTv3_082_inst_nostuff
+1787/1805 5_points_GTv3_083_inst_nostuff
+1788/1805 5_points_GTv3_084_inst_nostuff
+1789/1805 5_points_GTv3_085_inst_nostuff
+1790/1805 5_points_GTv3_086_inst_nostuff
+1791/1805 5_points_GTv3_087_inst_nostuff
+1792/1805 5_points_GTv3_088_inst_nostuff
+1793/1805 5_points_GTv3_089_inst_nostuff
+1794/1805 5_points_GTv3_08_inst_nostuff
+1795/1805 5_points_GTv3_090_inst_nostuff
+1796/1805 5_points_GTv3_091_inst_nostuff
+1797/1805 5_points_GTv3_092_inst_nostuff
+1798/1805 5_points_GTv3_093_inst_nostuff
+1799/1805 5_points_GTv3_094_inst_nostuff
+1800/1805 5_points_GTv3_095_inst_nostuff
+1801/1805 5_points_GTv3_096_inst_nostuff
+1802/1805 5_points_GTv3_097_inst_nostuff
+1803/1805 5_points_GTv3_098_inst_nostuff
+1804/1805 5_points_GTv3_099_inst_nostuff
+1805/1805 5_points_GTv3_09_inst_nostuff

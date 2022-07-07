@@ -1,0 +1,7 @@
+# ninja log v5
+1	21575	1656323621646638400	/media/nmhlog/Naufal Disk/Thesis Experiment/thesis/HAIS/lib/hais_ops/build/temp.linux-x86_64-3.8/src/cuda.o	8a4cdf9141b40a46
+1	23028	1656323623100434100	/media/nmhlog/Naufal Disk/Thesis Experiment/thesis/HAIS/lib/hais_ops/build/temp.linux-x86_64-3.8/src/hais_ops.o	6f79899f7583e78c
+2	26332	1656323626400750100	/media/nmhlog/Naufal Disk/Thesis Experiment/thesis/HAIS/lib/hais_ops/build/temp.linux-x86_64-3.8/src/hais_ops_api.o	492d4d3ae7d79d67
+5	20384	1656323648203022700	/media/nmhlog/Naufal Disk/Thesis Experiment/thesis/HAIS/lib/hais_ops/build/temp.linux-x86_64-3.8/src/cuda.o	1e9568356ee47bae
+5	21902	1656323649714198700	/media/nmhlog/Naufal Disk/Thesis Experiment/thesis/HAIS/lib/hais_ops/build/temp.linux-x86_64-3.8/src/hais_ops.o	9e1b58b8cf7e3888
+6	26372	1656323654180921600	/media/nmhlog/Naufal Disk/Thesis Experiment/thesis/HAIS/lib/hais_ops/build/temp.linux-x86_64-3.8/src/hais_ops_api.o	c174ae86ca882dba
